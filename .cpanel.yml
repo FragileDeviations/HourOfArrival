@@ -1,0 +1,18 @@
+---
+deployment:
+  tasks:
+    - export REPO_ROOT=$HOME/repositories/HourOfArrival
+    - export DEPLOY_BASE=$HOME/sites/yz
+
+    # Deploy each site folder to the correct location
+    - /bin/cp -r $REPO_ROOT/websites/anotherversionofthetruth.xyz/* $DEPLOY_BASE/anotherversionofthetruth.xyz/
+    - /bin/cp -r $REPO_ROOT/websites/artisresistance.xyz/* $DEPLOY_BASE/artisresistance.xyz/
+    - /bin/cp -r $REPO_ROOT/websites/bethehammer.xyz/* $DEPLOY_BASE/bethehammer.xyz/
+    - /bin/cp -r $REPO_ROOT/websites/cedocore.xyz/* $DEPLOY_BASE/cedocore.xyz/
+    - /bin/cp -r $REPO_ROOT/websites/churchofplano.xyz/* $DEPLOY_BASE/churchofplano.xyz/
+    - /bin/cp -r $REPO_ROOT/websites/freerebelart.xyz/* $DEPLOY_BASE/freerebelart.xyz/
+    - /bin/cp -r $REPO_ROOT/websites/hourofarrival.xyz/* $DEPLOY_BASE/hourofarrival.xyz/
+    - /bin/cp -r $REPO_ROOT/websites/iamtryingtobelieve.xyz/* $DEPLOY_BASE/iamtryingtobelieve.xyz/
+    - /bin/cp -r $REPO_ROOT/websites/opensourceresistance.xyz/* $DEPLOY_BASE/opensourceresistance.xyz/
+    - /bin/cp -r $REPO_ROOT/websites/securebroadcastinformatics.xyz/* $DEPLOY_BASE/securebroadcastinformatics.xyz/
+    - /bin/cp -r $REPO_ROOT/websites/solutionsbackwardsinitiative.xyz/* $DEPLOY_BASE/solutionsbackwardsinitiative.xyz/
