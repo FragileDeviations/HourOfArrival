@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" style="--wm-toolbar-height: 1px; background-color: black;">
+    
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Another Version of the Truth</title>
+    
+    <meta property="og:title" content="America Is Born Again" />
+    <meta property="og:description" content="This Message Brought To You By The US Bureau of Morality" />
+    <meta property="og:image" content="https://anotherversionofthetruth.xyz/avott/anotherversion.png" />
+    <meta property="og:url" content="https://anotherversionofthetruth.xyz" />
+    
+    <link rel="icon" type="image/x-icon" href="https://anotherversionofthetruth.xyz/favicon.ico">
+
+    <link rel="stylesheet" type="text/css" href="avott/banner-styles.css">
+    <link rel="stylesheet" type="text/css" href="avott/iconochive.css">
+    <link rel="stylesheet" type="text/css" href="avott/global.css">
+
+    <script src="avott/bundle-playback.js" charset="utf-8"></script>
+    <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
+    <script src="avott/AC_RunActiveContent.js"></script>
+    <script src="avott/detection.js"></script>
+
+    <script type="text/javascript">
+        window.RufflePlayer = window.RufflePlayer || {};
+        window.RufflePlayer.config = {
+            "autoplay": "on",
+            "unmuteOverlay": "hidden"
+        };
+    </script>
+</head>
+
+<body>
+    <audio id="bg-audio" src="avott/avott.mp3" loop="true" muted="true"></audio>
+    
+    <script>
+        const audio = document.getElementById('bg-audio');
+        audio.load();
+
+        document.addEventListener('click', () => {
+            audio.muted = false;
+            audio.play();
+        }, { once: true });
+        
+        document.addEventListener('visibilitychange', () => {
+        if (document.hidden) {
+                audio.muted = true;
+        }
+        else {
+            audio.muted = false;
+        }
+        });
+    </script>
+  
+    <center>
+        <div>
+            <script type="text/javascript">
+                var swfUrl = 'avott';
+                var myWidth = '900';
+                var myHeight = '600';
+                var myID = 'avott';
+                var myBGColor = '#000000';
+
+                var hasRightVersion = DetectFlashVer(requiredMajorVersion, requiredMinorVersion, requiredRevision);
+                if (hasRightVersion) {
+                    var arguments = [
+                        'id', myID, 'codebase', 'https://web.archive.org/web/20080227234756/http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0',
+                        'width', myWidth, 'height', myHeight, 'align', 'middle', 'src', swfUrl, 'quality', 'high', 'bgcolor', myBGColor,
+                        'name', myID, 'allowscriptaccess', 'always', 'pluginspage', 'https://web.archive.org/web/20080227234756/http://www.macromedia.com/go/getflashplayer',
+                        'movie', swfUrl
+                    ];
+                    var ret = AC_GetArgs(arguments, ".swf", "movie", "clsid:d27cdb6e-ae6d-11cf-96b8-444553540000", "application/x-shockwave-flash");
+                    AC_Generateobj(ret.objAttrs, ret.params, ret.embedAttrs);
+                }
+            </script>
+
+            <p style="position:absolute; top:600px; left:300px; color:Black;">24.10.8</p>
+        </div>
+    </center>
+</body>
+
+</html>

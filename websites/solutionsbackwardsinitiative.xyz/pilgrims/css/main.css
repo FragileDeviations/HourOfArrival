@@ -1,0 +1,48 @@
+﻿body 
+{
+    background-color:White;
+}
+
+.groupText
+{
+    font-family:Arial;
+    font-size:11px;
+    color:#cccccc;
+}
+
+.inner
+{
+    background-image:url(images/wiki_bkgd_03.jpg);
+}
+
+.innerText
+{
+    padding-left:34px; 
+    padding-top:3px; 
+    font-family:Arial; 
+    font-size:12px;
+}
+
+.hold
+{
+    position:absolute; 
+    top:0px; 
+    left:0px;
+}    
+
+p
+{
+    font-family:Verdana;
+    font-size:12px;
+    color:White;
+}
+
+a:link, a:visited
+{
+    color:#cccccc;
+}
+
+a:hover, a:active
+{
+    color:#ffffff;
+}

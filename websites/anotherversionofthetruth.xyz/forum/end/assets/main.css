@@ -1,0 +1,53 @@
+body 
+{
+    background-color:White;
+}
+
+p
+{
+    font-family:Arial;
+    font-size:12px;
+    color:White;
+}
+
+div
+{
+    font-family:Arial;
+    font-size:12px;
+    color:White;
+}    
+
+a:link, a:visited
+{
+    color:#95B3D7;
+}
+
+a:hover, a:active
+{
+    color:#95B3D7;
+}
+
+.page
+{
+    padding-left:7px;
+}
+/*
+     FILE ARCHIVED ON 09:06:01 Jun 24, 2007 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 23:35:42 Apr 25, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.678
+  exclusion.robots: 0.027
+  exclusion.robots.policy: 0.012
+  esindex: 0.017
+  cdx.remote: 50.618
+  LoadShardBlock: 248.763 (3)
+  PetaboxLoader3.datanode: 268.967 (4)
+  PetaboxLoader3.resolve: 136.764 (2)
+  load_resource: 197.732
+*/

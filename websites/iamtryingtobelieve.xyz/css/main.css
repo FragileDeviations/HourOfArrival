@@ -1,0 +1,35 @@
+﻿
+
+p
+{
+    font-family:Georgia;
+    font-size:12px;
+    color:White;
+}
+
+.bigWhite
+{
+    font-weight:bold;
+    font-size:18px;
+    font-family:Georgia;
+}
+
+.biggerWhite
+{
+    font-weight:bold;
+    font-size:18px;
+    font-family:Times;
+}
+
+.redText
+{
+    color:Red;
+    font-size:40px;
+    font-family:Times;
+}
+
+a:link, a:visited, a:hover, a:active
+{
+    color:White;
+}
+

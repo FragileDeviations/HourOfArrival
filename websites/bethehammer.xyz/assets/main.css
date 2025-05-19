@@ -1,0 +1,84 @@
+body 
+{
+    background-color:#6a0008;
+    font-family:Verdana;
+    font-size:12px;
+    color:White;
+}
+
+
+p
+{
+    font-family:Verdana;
+    color:White;
+    font-size:12px;
+    text-align:left;
+}
+
+
+.title 
+{
+    font-family:Verdana;
+    font-weight:bold;
+    color:White;
+    font-size:44px;
+}
+
+.subtitle
+{
+    font-family:Verdana;
+    font-weight:bold;
+    font-size:36px;
+}
+
+.greyText
+{
+    font-family:Verdana;
+    font-size:12px;
+    color:#a5a5a5;
+}
+
+
+a:link, a:visited, a:active
+{
+    color:#a5a5a5;
+}
+
+a:hover
+{
+    color:White;
+}
+
+
+.menuText
+{
+    color:#a5a5a5; 
+    font-weight:bold;  
+    font-size:14px;
+}
+
+
+.bigWhite
+{
+    font-size:18px; font-weight:bold; font-style:italic;
+}
+/*
+     FILE ARCHIVED ON 23:57:06 Aug 07, 2007 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:12:24 Apr 27, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.841
+  exclusion.robots: 0.03
+  exclusion.robots.policy: 0.013
+  esindex: 0.014
+  cdx.remote: 11.273
+  LoadShardBlock: 152.054 (3)
+  PetaboxLoader3.datanode: 105.855 (4)
+  PetaboxLoader3.resolve: 243.959 (2)
+  load_resource: 208.299
+*/
