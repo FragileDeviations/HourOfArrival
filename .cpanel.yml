@@ -16,3 +16,4 @@ deployment:
     - /bin/cp -r $REPO_ROOT/websites/opensourceresistance.xyz/* $DEPLOY_BASE/opensourceresistance.xyz/
     - /bin/cp -r $REPO_ROOT/websites/securebroadcastinformatics.xyz/* $DEPLOY_BASE/securebroadcastinformatics.xyz/
     - /bin/cp -r $REPO_ROOT/websites/solutionsbackwardsinitiative.xyz/* $DEPLOY_BASE/solutionsbackwardsinitiative.xyz/
+    - /bin/cp -r $REPO_ROOT/websites/themailstrom.xyz/* $DEPLOY_BASE/themailstrom.xyz/
