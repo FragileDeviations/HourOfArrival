@@ -17,13 +17,11 @@ Wreckage: pain Shard: HTDTNA
 Wreckage: parasite Shard: tP366K
 Wreckage: pliers Shard: Ji3p09
 Wreckage: regret Shard: Ad54S7
-Wreckage: scorpion Shard: 4rTL21 [v1]
 Wreckage: scorpion Shard: 4rTL21
 Wreckage: sickle Shard: Nnqa49
 Wreckage: slander Shard: Yr4893
 Wreckage: spore Shard: pQw2pP
 Wreckage: tumbrel Shard: ad44us
-Wreckage: usurp Shard: 397W4P [v1]
 Wreckage: usurp Shard: 397W4P
 Wreckage: venom Shard: D3i8Na
 Wreckage: wetwork Shard: c276e4
