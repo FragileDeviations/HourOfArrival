@@ -17,3 +17,4 @@ deployment:
     - /bin/cp -r $REPO_ROOT/websites/securebroadcastinformatics.xyz/* $DEPLOY_BASE/securebroadcastinformatics.xyz/
     - /bin/cp -r $REPO_ROOT/websites/solutionsbackwardsinitiative.xyz/* $DEPLOY_BASE/solutionsbackwardsinitiative.xyz/
     - /bin/cp -r $REPO_ROOT/websites/themailstrom.xyz/* $DEPLOY_BASE/themailstrom.xyz/
+    - /bin/cp -r $REPO_ROOT/websites/exterminal.xyz/* $DEPLOY_BASE/exterminal.xyz/

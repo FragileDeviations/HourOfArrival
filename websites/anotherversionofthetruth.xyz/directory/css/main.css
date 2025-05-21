@@ -1,0 +1,23 @@
+body {
+  background-image: url(../assets/side.jpg);
+  background-repeat: repeat;
+  font-family: Verdana, Geneva, sans-serif;
+  color: #ffffff;
+  text-align: center;
+  margin: 0;
+  padding: 0 1em;
+}
+
+h1 img {
+  width: 250px;
+  height: 158px;
+}
+
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
