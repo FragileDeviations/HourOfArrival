@@ -19,3 +19,8 @@ If you would like to support this, there are 2 ways:
 2. Donate via PayPal (mabel@anotherversionofthetruth.xyz)
 
 This is not for profit, all funds donated go directly to hosting.
+
+# What Happens If I Can't Pay For It Anymore?
+I will leave this repository up for preservation. I may not own the domains forever (but I want to own them for as long as I can), but this repository will always be available as a public archive.
+
+Though do note that some files use links to my currently online sites and those would have to be fixed. Not a big problem to fix, though.
