@@ -1,0 +1,1498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  generated="2007-04-04T15:45:47">
+
+  
+  
+  
+<American_Cities>
+<city>Albuquerque</city>
+<state>New Mexico</state>
+<facts>Despite practices first instituted in the mid 1990&apos;s, Albuquerque still faces serious water problems for both industry and home.  Average temperatures are up 3 degrees since the turn of the century, and will add another 5 over the next generation, so heat is still a problem, but the elevation helps keep it one of the more livable cities in the southwest.</facts>
+<spin>ATTENTION: ALL SCORPION COLLECTORS! &lt;br /&gt;&lt;br /&gt;OK, just kidding.  Seriously, the slogan &quot;at least it&apos;s better than living in El Paso&quot; has never been more apt.&lt;br /&gt;&lt;br /&gt;Plus, the city Bugs Bunny made famous will give you a chance to be part of the green movement!  Albuquerque is on the vanguard of water conservation technologies!</spin>
+<image></image>
+<climate>0.5</climate>
+<toxicity>1.5</toxicity>
+<ecoOutlook>1.5</ecoOutlook>
+<neighbors>1.4</neighbors>
+<longOutlook>1.4</longOutlook>
+<viabilityIndex>6.3</viabilityIndex>
+<weather>0</weather>
+<hurricane>0</hurricane>
+<tornado>0</tornado>
+<Flood>0</Flood>
+<Drought>1</Drought>
+<Wildfire>1</Wildfire>
+<Volcano>0</Volcano>
+<Earthquake>0</Earthquake>
+<Heat>1</Heat>
+<War>0</War>
+<Disease>0</Disease>
+  <imgName>Albequerque</imgName>  
+</American_Cities>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<American_Cities>
+<city>Anchorage</city>
+<state>Alaska</state>
+<facts>The bumper sticker says, &quot;Alaskans for Global Warming&quot; for a reason.  Anchorage is a big winner in the climate change lottery.  </facts>
+<spin>Four seasons, the way you remember, and summers you&apos;ll love.</spin>
+<image>Anchorage - the new Seattle!</image>
+<climate>1.8</climate>
+<toxicity>1.8</toxicity>
+<ecoOutlook>1.5</ecoOutlook>
+<neighbors>1.5</neighbors>
+<longOutlook>1.6</longOutlook>
+<viabilityIndex>8.2</viabilityIndex>
+<weather>0</weather>
+<hurricane>0</hurricane>
+<tornado>0</tornado>
+<Flood>1</Flood>
+<Drought>0</Drought>
+<Wildfire>0</Wildfire>
+<Volcano>0</Volcano>
+<Earthquake>1</Earthquake>
+<Heat>0</Heat>
+<War>0</War>
+<Disease>0</Disease>
+  <imgName>Anchorage</imgName>
+</American_Cities>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<American_Cities>
+<city>Atlanta</city>
+<state>Georgia</state>
+<facts>&quot;Sweat City, USA&quot; is battling heat and smog issues, but its strong infrastructure helps it maintain its position as the capital of the south.  It&apos;s still a city with good jobs and good neighbors.</facts>
+<spin>Malaria!  Cholera!  Encephalitis! Oh my!  As diseases you once only heard about in pirate movies spread out from the sunken cities of Florida and the swamps of the Mississippi, isn&apos;t it good to have the Center for Disease Control right in your own back yard?</spin>
+<image></image>
+<climate>0.4</climate>
+<toxicity>1.3</toxicity>
+<ecoOutlook>1.6</ecoOutlook>
+<neighbors>1.4</neighbors>
+<longOutlook>1.4</longOutlook>
+<viabilityIndex>6.1</viabilityIndex>
+<weather>0</weather>
+<hurricane>1</hurricane>
+<tornado>1</tornado>
+<Flood>1</Flood>
+<Drought>0</Drought>
+<Wildfire>0</Wildfire>
+<Volcano>0</Volcano>
+<Earthquake>0</Earthquake>
+<Heat>1</Heat>
+<War>0</War>
+<Disease>1</Disease>
+  <imgName>Atlanta</imgName>
+</American_Cities>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<American_Cities>
+<city>Boise</city>
+<state>Idaho</state>
+<facts>Although Boise was one of the first cities to officially recognize the consequences of carbon emissions, you can&apos;t fight location, location, location, and drought and heat have hit this city very hard.  Economic depression followed.</facts>
+<spin>SNOWBIRD ALERT!&lt;br /&gt;&lt;br /&gt;Boise is the new Phoenix!  Once wasted on wheat and potatoes, the farmland of Idaho has been transformed into the highest number of golf courses per capita in the US of A!  </spin>
+<image></image>
+<climate>1.3</climate>
+<toxicity>2</toxicity>
+<ecoOutlook>1.3</ecoOutlook>
+<neighbors>1.4</neighbors>
+<longOutlook>1</longOutlook>
+<viabilityIndex>7</viabilityIndex>
+<weather>0</weather>
+<hurricane>0</hurricane>
+<tornado>1</tornado>
+<Flood>0</Flood>
+<Drought>1</Drought>
+<Wildfire>1</Wildfire>
+<Volcano>0</Volcano>
+<Earthquake>0</Earthquake>
+<Heat>0</Heat>
+<War>0</War>
+<Disease>0</Disease>
+  <imgName>Idaho</imgName>
+</American_Cities>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<American_Cities>
+<city>Boston</city>
+<state>Massachusetts</state>
+<facts>Boston&apos;s getting wetter.  The harsh winters of the last century are only a memory, but last decade&apos;s 500 year flood plain is this year&apos;s opportunity to sell insurance.  </facts>
+<spin>Boston history and charm, now warmer and wetter--think the Savannah of New England!</spin>
+<image></image>
+<climate>1.25</climate>
+<toxicity>1.2</toxicity>
+<ecoOutlook>1.5</ecoOutlook>
+<neighbors>1.5</neighbors>
+<longOutlook>1.5</longOutlook>
+<viabilityIndex>6.95</viabilityIndex>
+<weather>1</weather>
+<hurricane>0</hurricane>
+<tornado>0</tornado>
+<Flood>1</Flood>
+<Drought>0</Drought>
+<Wildfire>0</Wildfire>
+<Volcano>0</Volcano>
+<Earthquake>0</Earthquake>
+<Heat>0</Heat>
+<War>0</War>
+<Disease>0</Disease>
+  <imgName>Massachusettes</imgName>
+</American_Cities>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<American_Cities>
+<city>Buffalo</city>
+<state>New York</state>
+<facts>Buffalo gets warmer and has a huge source of fresh water in Lake Ontario. Another winner in the climate change lottery.  </facts>
+<spin>BUFFALO WINGS&lt;br /&gt;&lt;br /&gt;Upstate is red hot.  Buy now:  next summer the snobs can rent their lakeside resort cottages from you! </spin>
+<image></image>
+<climate>1.7</climate>
+<toxicity>1.2</toxicity>
+<ecoOutlook>1.6</ecoOutlook>
+<neighbors>1.5</neighbors>
+<longOutlook>1.6</longOutlook>
+<viabilityIndex>7.6</viabilityIndex>
+<weather>1</weather>
+<hurricane>0</hurricane>
+<tornado>1</tornado>
+<Flood>0</Flood>
+<Drought>0</Drought>
+<Wildfire>0</Wildfire>
+<Volcano>0</Volcano>
+<Earthquake>0</Earthquake>
+<Heat>0</Heat>
+<War>0</War>
+<Disease>0</Disease>
+  <imgName>Buffalo</imgName>
+</American_Cities>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<American_Cities>
+<city>Charlotte</city>
+<state>North Carolina</state>
+<facts>First in Flight -- Next Underwater.&lt;br /&gt;&lt;br /&gt;Yes, Kitty Hawk is only one of the many parts of North Carolina going under at a brisk rate.  This &lt;a target='_blank' href='http://www.geo.arizona.edu/dgesl/research/other/climate_change_and_sea_level/sea_level_rise/northeast/slr_usane_a.htm' style='color:Blue;'&gt; &lt;u&gt;handy animation&lt;/u&gt; &lt;/a&gt; tells you everything you need to know about buying real estate on the Atlantic seaboard.&lt;br /&gt;&lt;br /&gt;Sweltering heat increases the demand for electricity and water, malaria re-appears, and let&apos;s not even talk about red tides.  On the plus side--hey, housing prices have dropped.</facts>
+<spin>JAMAICA NORTH!&lt;br /&gt;&lt;br /&gt;Caribbean charm--at rock bottom prices!</spin>
+<image></image>
+<climate>0.8</climate>
+<toxicity>1.2</toxicity>
+<ecoOutlook>1.4</ecoOutlook>
+<neighbors>1.4</neighbors>
+<longOutlook>1.4</longOutlook>
+<viabilityIndex>6.2</viabilityIndex>
+<weather>0</weather>
+<hurricane>1</hurricane>
+<tornado>0</tornado>
+<Flood>0</Flood>
+<Drought>1</Drought>
+<Wildfire>0</Wildfire>
+<Volcano>0</Volcano>
+<Earthquake>0</Earthquake>
+<Heat>1</Heat>
+<War>0</War>
+<Disease>0</Disease>
+  <imgName>Charlotte</imgName>
+</American_Cities>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<American_Cities>
+<city>Chicago</city>
+<state>Illinois</state>
+<facts>Too hot and humid for wheat?  Then grow tobacco!  The City of Broad Shoulders is wearing a tank top and feeling fine on the shores of one of the world&apos;s great supplies of fresh water. Once fierce winters are milder, and Chicago&apos;s business community is poised to pick up what hurricane-ravaged New York lets drop.  </facts>
+<spin>We&apos;re bullish on Chicago, &quot;Queen of the Pretty Darn Good Lakes&quot;</spin>
+<image></image>
+<climate>1.7</climate>
+<toxicity>1.7</toxicity>
+<ecoOutlook>1.9</ecoOutlook>
+<neighbors>1.8</neighbors>
+<longOutlook>2</longOutlook>
+<viabilityIndex>9.1</viabilityIndex>
+<weather>1</weather>
+<hurricane>0</hurricane>
+<tornado>1</tornado>
+<Flood>0</Flood>
+<Drought>1</Drought>
+<Wildfire>0</Wildfire>
+<Volcano>0</Volcano>
+<Earthquake>0</Earthquake>
+<Heat>0</Heat>
+<War>0</War>
+<Disease>0</Disease>
+  <imgName>Chicago</imgName>
+</American_Cities>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<American_Cities>
+<city>Cleveland</city>
+<state>Ohio</state>
+<facts>Those Great Lake cities are coming on strong.  After years of struggling with poverty and city woes, increased temperatures and a huge fresh water source called Lake Erie have positioned the Mistake on the Lake to be a really good buy in the next twenty years.  </facts>
+<spin>CLEVELAND ROCKS!&lt;br /&gt;&lt;br /&gt;Prices will be strictly up-tempo around the Rock and Roll Hall of Fame as Cleveland goes from Garage Band status to Real Estate Superstardom over the next ten years!  </spin>
+<image></image>
+<climate>1.75</climate>
+<toxicity>1.2</toxicity>
+<ecoOutlook>1.5</ecoOutlook>
+<neighbors>1.5</neighbors>
+<longOutlook>1.6</longOutlook>
+<viabilityIndex>7.55</viabilityIndex>
+<weather>1</weather>
+<hurricane>0</hurricane>
+<tornado>1</tornado>
+<Flood>0</Flood>
+<Drought>1</Drought>
+<Wildfire>0</Wildfire>
+<Volcano>0</Volcano>
+<Earthquake>0</Earthquake>
+<Heat>0</Heat>
+<War>0</War>
+<Disease>0</Disease>
+  <imgName>Cleveland</imgName>
+</American_Cities>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<American_Cities>
+<city>Dallas</city>
+<state>Texas</state>
+<facts>The Chicken Fried State.&lt;br /&gt;&lt;br /&gt;Let&apos;s face it--everyone has known since early in this century that Texas was going to face increasing temperatures, drought, border troubles and skin cancer rates that have the cheerleaders wearing spandex turtlenecks.&lt;br /&gt;&lt;br /&gt;The good news?&lt;br /&gt;&lt;br /&gt;At least it&apos;s not Houston.</facts>
+<spin>Sure, it&apos;s a tad hot, but the economy is based on burgers, banks, and oil.  The water may be drying up, but the money is still here, and that&apos;s what counts.  Plus, buy now and find Texas-sized bargains!</spin>
+<image></image>
+<climate>0.4</climate>
+<toxicity>1.2</toxicity>
+<ecoOutlook>1.4</ecoOutlook>
+<neighbors>1.3</neighbors>
+<longOutlook>1.3</longOutlook>
+<viabilityIndex>5.6</viabilityIndex>
+<weather>1</weather>
+<hurricane>0</hurricane>
+<tornado>1</tornado>
+<Flood>0</Flood>
+<Drought>1</Drought>
+<Wildfire>1</Wildfire>
+<Volcano>0</Volcano>
+<Earthquake>0</Earthquake>
+<Heat>1</Heat>
+<War>0</War>
+<Disease>0</Disease>
+  <imgName>Dallas</imgName>
+</American_Cities>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<American_Cities>
+<city>Denver</city>
+<state>Colorado</state>
+<facts>Warmer winters and drought, but Denver is still a wonderful place to live.  What would be horrible heat at lower elevations just takes the edge off at this elevation.  A climate change winner.</facts>
+<spin>Invest now in Denver&apos;s artificial snow industry! Vail wouldn&apos;t be the same without its ski slopes, but when Mother Nature stops pulling her weight, someone has to pick up the slack.&lt;br /&gt;&lt;br /&gt;Plus, the way things are going with US adventures overseas, any economy based on NORAD and the Air Force Academy is wheels up and ready to fly!</spin>
+<image>Winter!  Have it your way</image>
+<climate>1.5</climate>
+<toxicity>1.7</toxicity>
+<ecoOutlook>1.7</ecoOutlook>
+<neighbors>1.6</neighbors>
+<longOutlook>1.8</longOutlook>
+<viabilityIndex>8.3</viabilityIndex>
+<weather>1</weather>
+<hurricane>0</hurricane>
+<tornado>0</tornado>
+<Flood>0</Flood>
+<Drought>1</Drought>
+<Wildfire>1</Wildfire>
+<Volcano>0</Volcano>
+<Earthquake>0</Earthquake>
+<Heat>0</Heat>
+<War>0</War>
+<Disease>0</Disease>
+  <imgName>Denver</imgName>
+</American_Cities>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<American_Cities>
+  <city>Honolulu</city>
+  <state>Hawaii</state>
+  <facts>Temperatures are climbing but the ocean breeze moderates the heat at the coast line, and face it, who lives in the interior?  Honolulu is still an island paradise. </facts>
+  <spin>
+    It&apos;s still Hawaii!&lt;br /&gt;&lt;br /&gt;Plus, the more people we want to use the Pacific Fleet on, the bigger the Fleet will be!  And remember, nothing does more for a service-based economy than these two little words:  Shore Leave!
+</spin>
+<image></image>
+  <climate>1.75</climate>
+  <toxicity>1.2</toxicity>
+  <ecoOutlook>1.6</ecoOutlook>
+  <neighbors>1.5</neighbors>
+  <longOutlook>1.5</longOutlook>
+  <viabilityIndex>7.55</viabilityIndex>
+  <weather>0</weather>
+  <hurricane>1</hurricane>
+  <tornado>0</tornado>
+  <Flood>1</Flood>
+  <Drought>0</Drought>
+  <Wildfire>0</Wildfire>
+  <Volcano>1</Volcano>
+  <Earthquake>1</Earthquake>
+  <Heat>1</Heat>
+  <War>0</War>
+  <Disease>0</Disease>
+  <imgName>Hawaii</imgName>
+</American_Cities>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<American_Cities>
+<city>Houston</city>
+<state>Texas</state>
+<facts>Basically it&apos;s Bangladesh with a concealed carry law.  Houses are being lost to mold infestation.  Homeowners unable to sell are simply walking away and banks, unable to take on the properties, aren&apos;t even bothering to foreclose.  The ship channel caught fire, there are mutant catfish in the bayous, and the City With No Zoning Laws is America&apos;s Fattest every other year.  There are fire ants, black widows, killer bees, and mosquitoes bearing malaria, West Nile, and viral meningitis:  and that was all in the 1990s.&lt;br /&gt;&lt;br /&gt;It&apos;s a lot worse now.&lt;br /&gt;&lt;br /&gt;But:  it&apos;s the American oil industry.  Houston--like its thumb-length cockroaches--can survive anything.</facts>
+<spin>Buy now on the Gulf Coast--and let the Carribbean come to you!</spin>
+<image>SILICON VALLEY&lt;br /&gt;Houston:  Birthplace of the Breast Implant</image>
+<climate>0.3</climate>
+<toxicity>0.6</toxicity>
+<ecoOutlook>1.1</ecoOutlook>
+<neighbors>0.9</neighbors>
+<longOutlook>1</longOutlook>
+<viabilityIndex>3.9</viabilityIndex>
+<weather>0</weather>
+<hurricane>1</hurricane>
+<tornado>1</tornado>
+<Flood>1</Flood>
+<Drought>1</Drought>
+<Wildfire>0</Wildfire>
+<Volcano>0</Volcano>
+<Earthquake>0</Earthquake>
+<Heat>1</Heat>
+<War>0</War>
+<Disease>0</Disease>
+  <imgName>Houston</imgName>
+</American_Cities>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<American_Cities>
+<city>Kansas City</city>
+<state>Missouri</state>
+<facts>Kansas City BBQ&apos;d.  
+&quot;At Least it&apos;s Not Oklahoma&quot;&lt;br /&gt;&lt;br /&gt;OK, the summers are hot and drought is a problem, but groundwater supplies are mostly adequate.  Good news! There are only two natural disasters you really have to worry about, tornados and the Royals.  Build a cellar and watch football.</facts>
+<spin>TORNADO ALLEY&lt;br /&gt;&lt;br /&gt;Have you always dreamed of working for the Weather Channel?  Does the sight of a funnel cloud leave you itching to jump into your van with a camcorder and a sixpack?  Do you own a root cellar construction company, glass repair shop or mobile home dealership?  Then Kansas City is the place for you!</spin>
+<image></image>
+<climate>0.7</climate>
+<toxicity>1.5</toxicity>
+<ecoOutlook>1.5</ecoOutlook>
+<neighbors>1.5</neighbors>
+<longOutlook>1.4</longOutlook>
+<viabilityIndex>6.6</viabilityIndex>
+<weather>0</weather>
+<hurricane>0</hurricane>
+<tornado>1</tornado>
+<Flood>0</Flood>
+<Drought>1</Drought>
+<Wildfire>1</Wildfire>
+<Volcano>0</Volcano>
+<Earthquake>0</Earthquake>
+<Heat>1</Heat>
+<War>0</War>
+<Disease>0</Disease>
+  <imgName>Kansas</imgName>
+</American_Cities>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<American_Cities>
+<city>Las Vegas</city>
+<state>Nevada</state>
+<facts>It&apos;s like Hell, with a breakfast buffet.  In the summer, noontime temperatures will be routinely breaking 115 -- but who in Las Vegas is awake at noon?&lt;br /&gt;&lt;br /&gt;One reminder:  What happens in Vegas...has been recorded on a closed circuit security camera.  Think about it. </facts>
+<spin>Vice is recession-proof. </spin>
+<image></image>
+<climate>0.5</climate>
+<toxicity>1.6</toxicity>
+<ecoOutlook>1.3</ecoOutlook>
+<neighbors>1.3</neighbors>
+<longOutlook>1.1</longOutlook>
+<viabilityIndex>5.8</viabilityIndex>
+<weather>0</weather>
+<hurricane>0</hurricane>
+<tornado>0</tornado>
+<Flood>0</Flood>
+<Drought>1</Drought>
+<Wildfire>0</Wildfire>
+<Volcano>0</Volcano>
+<Earthquake>0</Earthquake>
+<Heat>1</Heat>
+<War>0</War>
+<Disease>0</Disease>
+  <imgName>Vegas</imgName>
+</American_Cities>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<American_Cities>
+<city>Los Angeles</city>
+<state>California</state>
+<facts>n/a</facts>
+<spin>n/a</spin>
+<image>n/a</image>
+<climate>0</climate>
+<toxicity>0</toxicity>
+<ecoOutlook>0</ecoOutlook>
+<neighbors>0</neighbors>
+<longOutlook>0</longOutlook>
+<viabilityIndex>0</viabilityIndex>
+<weather>0</weather>
+<hurricane>0</hurricane>
+<tornado>0</tornado>
+<Flood>0</Flood>
+<Drought>0</Drought>
+<Wildfire>0</Wildfire>
+<Volcano>0</Volcano>
+<Earthquake>0</Earthquake>
+<Heat>0</Heat>
+<War>0</War>
+<Disease>0</Disease>
+  <imgName></imgName>
+</American_Cities>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<American_Cities>
+<city>Memphis</city>
+<state>Tennessee</state>
+<facts>Persistent heat and humidity make Memphis a mosquito breeding zone.  Malaria, cholera, Bird flu, meningitis, enchephalitis and a host of other goodies are breeding like crazy in the sweltering swamps nearby.  
+</facts>
+<spin>ELVIS PRESLEY DIED HERE&lt;br /&gt;&lt;br /&gt;So can you!&lt;br /&gt;&lt;br /&gt;From country music fans to dermatologists, NASCAR afficionados to epidemiologists, Memphis has something for everyone!&lt;br /&gt;&lt;br /&gt;Take advantage of a historic opportunity -- snag a Graceland condo at pre-Reconstruction prices!</spin>
+<image></image>
+<climate>0.4</climate>
+<toxicity>1.4</toxicity>
+<ecoOutlook>1.4</ecoOutlook>
+<neighbors>1.3</neighbors>
+<longOutlook>1.1</longOutlook>
+<viabilityIndex>5.6</viabilityIndex>
+<weather>1</weather>
+<hurricane>0</hurricane>
+<tornado>1</tornado>
+<Flood>1</Flood>
+<Drought>0</Drought>
+<Wildfire>0</Wildfire>
+<Volcano>0</Volcano>
+<Earthquake>0</Earthquake>
+<Heat>1</Heat>
+<War>0</War>
+<Disease>1</Disease>
+  <imgName>Memphis</imgName>
+</American_Cities>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<American_Cities>
+<city>Miami</city>
+<state>Florida</state>
+<facts>Obviously, not many people are looking to buy property currently under the Atlantic Ocean.  If you are one of the many caught holding property in the red zone, &lt;a target='_blank' href='http://www.geo.arizona.edu/dgesl/research/other/climate_change_and_sea_level/sea_level_rise/florida/slr_usafl_a.htm'&gt;&lt;u&gt;don&apos;t lose hope.&lt;/u&gt;&lt;/a&gt;  As we say in real-estate, there&apos;s a new buyer born every minute.&lt;br /&gt;&lt;br /&gt;And hey--even underwater, it stills scores better than Cairo, Mexico City, Lima...&lt;br /&gt;&lt;br /&gt;...or Houston.</facts>
+<spin>Now YOU can own vacation property on&lt;br /&gt;&lt;br /&gt;THE WORLD&apos;S LARGEST MAN-MADE REEF!&lt;br /&gt;&lt;br /&gt;Jet-ski South Beach!&lt;br /&gt;Fish City Hall!&lt;br /&gt;Snorkle the Orange Bowl!
+</spin>
+<image></image>
+<climate>1.2</climate>
+<toxicity>0.8</toxicity>
+<ecoOutlook>0.5</ecoOutlook>
+<neighbors>1</neighbors>
+<longOutlook>0.5</longOutlook>
+<viabilityIndex>4</viabilityIndex>
+<weather>0</weather>
+<hurricane>1</hurricane>
+<tornado>1</tornado>
+<Flood>1</Flood>
+<Drought>0</Drought>
+<Wildfire>0</Wildfire>
+<Volcano>0</Volcano>
+<Earthquake>0</Earthquake>
+<Heat>1</Heat>
+<War>0</War>
+<Disease>1</Disease>
+  <imgName>Miami</imgName>
+</American_Cities>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<American_Cities>
+<city>Minneapolis</city>
+<state>Minnesota</state>
+<facts>Minnehaha Falls may have dried up, but Minneapolis is livelier than ever. How good has climate change been to Minneapolis?  Rumor has it they&apos;re taking the roof off the Mall of the Americas.</facts>
+<spin>It&apos;s Long Beach for Lutherans!</spin>
+<image></image>
+<climate>1.6</climate>
+<toxicity>1.5</toxicity>
+<ecoOutlook>1.7</ecoOutlook>
+<neighbors>1.6</neighbors>
+<longOutlook>1.6</longOutlook>
+<viabilityIndex>8</viabilityIndex>
+<weather>1</weather>
+<hurricane>0</hurricane>
+<tornado>1</tornado>
+<Flood>0</Flood>
+<Drought>0</Drought>
+<Wildfire>0</Wildfire>
+<Volcano>0</Volcano>
+<Earthquake>0</Earthquake>
+<Heat>0</Heat>
+<War>0</War>
+<Disease>0</Disease>
+  <imgName>Minneapolis</imgName>
+</American_Cities>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<American_Cities>
+<city>New Orleans</city>
+<state>Louisiana</state>
+<facts>&lt;a target='_blank' href='http://www.geo.arizona.edu/dgesl/research/other/climate_change_and_sea_level/sea_level_rise/louisiana/slr_usala_a.htm'&gt;&lt;u&gt;Link&lt;/u&gt;&lt;/a&gt;</facts>
+<spin>One word:  Houseboats.</spin>
+<image></image>
+<climate>0</climate>
+<toxicity>0</toxicity>
+<ecoOutlook>0</ecoOutlook>
+<neighbors>0</neighbors>
+<longOutlook>0</longOutlook>
+<viabilityIndex>0</viabilityIndex>
+<weather>0</weather>
+<hurricane>0</hurricane>
+<tornado>0</tornado>
+<Flood>0</Flood>
+<Drought>0</Drought>
+<Wildfire>0</Wildfire>
+<Volcano>0</Volcano>
+<Earthquake>0</Earthquake>
+<Heat>0</Heat>
+<War>0</War>
+<Disease>0</Disease>
+  <imgName>Louisiana</imgName>
+</American_Cities>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<American_Cities>
+<city>New York City</city>
+<state>New York</state>
+<facts>It&apos;s still the most vibrant city in the world, but the old turn-of-the-century &lt;a target='_blank' href='http://www.physorg.com/news81007489.html'&gt;&lt;u&gt;NASA estimates&lt;/u&gt;&lt;/a&gt; have turned out to be conservative. When the next Category 3 hurricane hits, the Rockaways and Coney Island will be under water--along with much of southern Brooklyn and Queens, portions of Long Island City, Astoria, Flushing Meadows-Corona Park, Queens, lower Manhattan, and eastern Staten Island from Great Kills Harbor north to the Verrazano Bridge.  </facts>
+<spin>Start Spreading The News
+BROADWAY -- BRONX STYLE!!!&lt;br /&gt;&lt;br /&gt;Fort Apache is buy-buy-buy -- hold on for those first few years (and let&apos;s face it, bullet-proof glass is cheap and plentiful) and you&apos;ll be sitting on prime NYC real estate. Own office property in lower Manhattan? Sell now, or just move upstairs!
+</spin>
+<image></image>
+<climate>1</climate>
+<toxicity>1.4</toxicity>
+<ecoOutlook>1.5</ecoOutlook>
+<neighbors>1.5</neighbors>
+<longOutlook>1.5</longOutlook>
+<viabilityIndex>6.9</viabilityIndex>
+<weather>1</weather>
+<hurricane>1</hurricane>
+<tornado>0</tornado>
+<Flood>1</Flood>
+<Drought>0</Drought>
+<Wildfire>0</Wildfire>
+<Volcano>0</Volcano>
+<Earthquake>0</Earthquake>
+<Heat>1</Heat>
+<War>0</War>
+<Disease>1</Disease>
+  <imgName>NewYork</imgName>
+</American_Cities>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<American_Cities>
+<city>Norfolk</city>
+<state>Virginia</state>
+<facts>With more waterfront property than ever, Norfolk also anticipates less traffic congestion when Newport News eventually disappears into the Chesapeake. Prospective buyers might be put off by the large military contingent, but if you stay to higher ground, it&apos;s an overall good bet.</facts>
+<spin>Hang in there, Norfolk: the sleazy parts of town will be underwater in just a few more years! </spin>
+<image></image>
+<climate>0.9</climate>
+<toxicity>1.1</toxicity>
+<ecoOutlook>1.5</ecoOutlook>
+<neighbors>1.4</neighbors>
+<longOutlook>1.3</longOutlook>
+<viabilityIndex>6.2</viabilityIndex>
+<weather>1</weather>
+<hurricane>1</hurricane>
+<tornado>0</tornado>
+<Flood>1</Flood>
+<Drought>0</Drought>
+<Wildfire>0</Wildfire>
+<Volcano>0</Volcano>
+<Earthquake>0</Earthquake>
+<Heat>1</Heat>
+<War>0</War>
+<Disease>0</Disease>
+  <imgName>Norfolk</imgName>
+</American_Cities>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<American_Cities>
+<city>Orlando</city>
+<state>Florida</state>
+<facts>Overdevelopment and devastating hurricanes have left Orlando flood-prone and struggling with disease outbreaks. A booming economy has kept the population growing, although anyone with any money flees the state during the oppressively hot late-summer storm season.</facts>
+<spin>ORLANDO&lt;br /&gt;&lt;br /&gt;&quot;It&apos;s What&apos;s Left&quot;
+</spin>
+<image></image>
+<climate>0.4</climate>
+<toxicity>1.4</toxicity>
+<ecoOutlook>1.6</ecoOutlook>
+<neighbors>1.5</neighbors>
+<longOutlook>1.5</longOutlook>
+<viabilityIndex>6.4</viabilityIndex>
+<weather>1</weather>
+<hurricane>1</hurricane>
+<tornado>1</tornado>
+<Flood>1</Flood>
+<Drought>1</Drought>
+<Wildfire>1</Wildfire>
+<Volcano>0</Volcano>
+<Earthquake>0</Earthquake>
+<Heat>1</Heat>
+<War>0</War>
+<Disease>1</Disease>
+  <imgName>Florida</imgName>
+</American_Cities>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<American_Cities>
+<city>Philadelphia</city>
+<state>Pennsylvania</state>
+<facts>Philadelphia has struggled to handle a growing population fed by southerners trying to escape stifling heat and people relocating from the eroding Jersey shore.  But if you want a big city in the eastern time zone that DOESN&apos;T smell like shrimp, Philly is fast becoming your best (and only) option.</facts>
+<spin>W.C. Fields said it best:  given the choice between death and Philadelphia, even Philadelphia wins.  &lt;br /&gt;&lt;br /&gt;Let&apos;s face it--the Eastern Seaboard has become the Eastern Flood Plain.  New York, New Jersey, Maryland and North Carolina--sooner or later they&apos;ll get tired of sinking into the sea--and Philadelphia will be waiting.</spin>
+<image></image>
+<climate>1</climate>
+<toxicity>1.2</toxicity>
+<ecoOutlook>2</ecoOutlook>
+<neighbors>0.6</neighbors>
+<longOutlook>1.5</longOutlook>
+<viabilityIndex>6.3</viabilityIndex>
+<weather>1</weather>
+<hurricane>1</hurricane>
+<tornado>0</tornado>
+<Flood>1</Flood>
+<Drought>0</Drought>
+<Wildfire>0</Wildfire>
+<Volcano>0</Volcano>
+<Earthquake>0</Earthquake>
+<Heat>1</Heat>
+<War>0</War>
+<Disease>0</Disease>
+  <imgName>Philadelphia</imgName>
+</American_Cities>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<American_Cities>
+<city>Phoenix</city>
+<state>Arizona</state>
+<facts>&quot;The Heat Stroke State&quot; 
+Phoenix declares that all non-essential services must shut down whenever the temperature exceeds 120 degrees F. Not a good location for the elderly or those with small children. &lt;br /&gt;&lt;br /&gt;Manual workers can have their pick of jobs, however, and the winters are still great!
+</facts>
+<spin>HATE THE RAIN?&lt;br /&gt;&lt;br /&gt;Come to the Valley of the Sun, and&lt;br /&gt;&lt;br /&gt;NEVER SEE RAIN AGAIN!&lt;br /&gt;&lt;br /&gt;No, seriously.  Never.
+</spin>
+<image></image>
+<climate>0.3</climate>
+<toxicity>1.5</toxicity>
+<ecoOutlook>1.3</ecoOutlook>
+<neighbors>1.4</neighbors>
+<longOutlook>1.2</longOutlook>
+<viabilityIndex>5.7</viabilityIndex>
+<weather>0</weather>
+<hurricane>0</hurricane>
+<tornado>0</tornado>
+<Flood>0</Flood>
+<Drought>1</Drought>
+<Wildfire>1</Wildfire>
+<Volcano>0</Volcano>
+<Earthquake>0</Earthquake>
+<Heat>1</Heat>
+<War>0</War>
+<Disease>0</Disease>
+  <imgName>Arizona</imgName>
+</American_Cities>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<American_Cities>
+<city>Portland</city>
+<state>Oregon</state>
+<facts>The Portland area&apos;s first commercial olive groves herald a major shift in the Pacific northwest&apos;s climate and economy.</facts>
+<spin>Tour the vinyards!&lt;br /&gt;Walk through the olive groves!&lt;br /&gt;See the Mediterranean in a whole new way!&lt;br /&gt;&lt;br /&gt;Portland--a little touch of Tuscany!
+</spin>
+<image></image>
+<climate>1.8</climate>
+<toxicity>1.8</toxicity>
+<ecoOutlook>1.7</ecoOutlook>
+<neighbors>2</neighbors>
+<longOutlook>1.7</longOutlook>
+<viabilityIndex>9</viabilityIndex>
+<weather>0</weather>
+<hurricane>0</hurricane>
+<tornado>0</tornado>
+<Flood>1</Flood>
+<Drought>0</Drought>
+<Wildfire>0</Wildfire>
+<Volcano>0</Volcano>
+<Earthquake>1</Earthquake>
+<Heat>0</Heat>
+<War>0</War>
+<Disease>0</Disease>
+  <imgName>Oregon</imgName>
+</American_Cities>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<American_Cities>
+<city>Salt Lake City</city>
+<state>Utah</state>
+<facts>Now it would be more aptly called the Biggish Salt Lake, and the once thriving brine shrimping industry is approaching extinction, putting thousands at risk of unemployment.&lt;br /&gt;&lt;br /&gt;Look, the US Government wasn&apos;t looking to do the Mormons any favors when it sent them to the reservation, and &quot;hotter and drier&quot; isn&apos;t going to make SLC any more attractive.</facts>
+<spin>VICE&lt;br /&gt;&lt;br /&gt;We need some.&lt;br /&gt;&lt;br /&gt;Are you a nightclub owner, jazz musician, or exotic dancer?  Ultimate Fighting promoter, card shark, or sex shop operator?&lt;br /&gt;&lt;br /&gt;Get away from the competition!  There&apos;s a big territory clamoring for YOU, right here, right now.&lt;br /&gt;&lt;br /&gt;UTAH:  &quot;Wide-Eyed and Disease Free&quot;</spin>
+<image></image>
+<climate>0.6</climate>
+<toxicity>1.5</toxicity>
+<ecoOutlook>1.1</ecoOutlook>
+<neighbors>1.2</neighbors>
+<longOutlook>1</longOutlook>
+<viabilityIndex>5.4</viabilityIndex>
+<weather>0</weather>
+<hurricane>0</hurricane>
+<tornado>0</tornado>
+<Flood>0</Flood>
+<Drought>1</Drought>
+<Wildfire>1</Wildfire>
+<Volcano>0</Volcano>
+<Earthquake>0</Earthquake>
+<Heat>1</Heat>
+<War>0</War>
+<Disease>0</Disease>
+  <imgName>Utah</imgName>
+</American_Cities>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<American_Cities>
+<city>San Diego</city>
+<state>California</state>
+<facts>There are still some people out there who ask, &quot;Why is the San Onofre Nuclear Power Generating Station built on top of an earthquake fault line?&quot;&lt;br /&gt;&lt;br /&gt;Realtors know the answer:  &quot;Because land is cheap on an earthquake fault line.&quot;&lt;br /&gt;&lt;br /&gt;Does it matter?  No.  Because the weather is perfect and always will be.</facts>
+<spin>We don&apos;t want to say &quot;We told you so&quot; when you moved to Los Angeles, but...</spin>
+<image>America's melting pot</image>
+<climate>2</climate>
+<toxicity>1.4</toxicity>
+<ecoOutlook>1.5</ecoOutlook>
+<neighbors>1.6</neighbors>
+<longOutlook>1.5</longOutlook>
+<viabilityIndex>8</viabilityIndex>
+<weather>0</weather>
+<hurricane>0</hurricane>
+<tornado>0</tornado>
+<Flood>1</Flood>
+<Drought>1</Drought>
+<Wildfire>1</Wildfire>
+<Volcano>0</Volcano>
+<Earthquake>1</Earthquake>
+<Heat>1</Heat>
+<War>0</War>
+<Disease>0</Disease>
+  <imgName>SanDiego</imgName>
+</American_Cities>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<American_Cities>
+<city>San Francisco</city>
+<state>California</state>
+<facts>San Francisco--warmer but still wonderful.  A winner in the climate change lottery, except for the increased problem with wildfires.  And earthquakes.  Also, eco-terrorists.&lt;br /&gt;&lt;br /&gt;Alas, real estate is not cheap in the City by the Bay.  If you want to leave your heart in San Francisco, be prepared to leave an arm and a leg with it.
+</facts>
+<spin>Selling property here is like robbery, without having to put that embarrassing pantyhose on your face.</spin>
+<image></image>
+<climate>1.9</climate>
+<toxicity>1.6</toxicity>
+<ecoOutlook>1.8</ecoOutlook>
+<neighbors>1.7</neighbors>
+<longOutlook>1.7</longOutlook>
+<viabilityIndex>8.7</viabilityIndex>
+<weather>1</weather>
+<hurricane>0</hurricane>
+<tornado>0</tornado>
+<Flood>0</Flood>
+<Drought>0</Drought>
+<Wildfire>1</Wildfire>
+<Volcano>0</Volcano>
+<Earthquake>1</Earthquake>
+<Heat>0</Heat>
+<War>0</War>
+<Disease>0</Disease>
+  <imgName>SanFrancisco</imgName>
+</American_Cities>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<American_Cities>
+  <city>Seattle</city>
+  <state>Washington</state>
+  <facts>One of the big winners in the climate change lottery, Seattle would be perfect if it could just rain a teensy bit less.  Consistently recognized as the most livable city in the United States.  Buying?  Just remember:  hill = mudslide.  </facts>
+  <spin>It&apos;s not rain!  It&apos;s liquid sunshine!&lt;br /&gt;&lt;br /&gt;Tropical Seattle calls you.
+</spin>
+<image></image>
+  <climate>1.5</climate>
+  <toxicity>1.8</toxicity>
+  <ecoOutlook>1.7</ecoOutlook>
+  <neighbors>1.7</neighbors>
+  <longOutlook>1.8</longOutlook>
+  <viabilityIndex>8.5</viabilityIndex>
+  <weather>1</weather>
+  <hurricane>0</hurricane>
+  <tornado>0</tornado>
+  <Flood>1</Flood>
+  <Drought>0</Drought>
+  <Wildfire>0</Wildfire>
+  <Volcano>1</Volcano>
+  <Earthquake>1</Earthquake>
+  <Heat>0</Heat>
+  <War>0</War>
+  <Disease>0</Disease>
+  <imgName>Seattle</imgName>
+</American_Cities>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<American_Cities>
+<city>St. Louis</city>
+<state>Missouri</state>
+<facts>Thinking of buying in St. Louis?  Be aware that it is along the most dangerous earthquake fault line in the United States.  &lt;link to http://stlouis.about.com/cs/maps/a/newmadrid.htm&gt;&lt;br /&gt;&lt;br /&gt;In other words, if you buy a house in St. Louis, consider a condo in Kansas, Des Moines, or Milwaukee so you&apos;ll have someplace to live when the city collapses.&lt;br /&gt;&lt;br /&gt;Meteorologically, St. Louis is basically the new Dallas (which is rapidly becoming the new Riyadh).&lt;br /&gt;&lt;br /&gt;Meanwhile, did you realize that you excrete more than 90% of every pain-killer, blood-thinner, or anti-depressant you take? Most of the rest of those drugs are making their way into whatever the hell lives at the bottom of the Mississippi river.&lt;br /&gt;&lt;br /&gt;Toxic chemicals are stored at hundreds to thousands of times their dispersed parts/million rate in the bodies of fish, lobsters, and other water-based animals.  Think about it the next time you eat some good southern catfish or Louisiana crawdads.
+</facts>
+<spin>Settle St. Louis &lt;br /&gt;&lt;br /&gt;&quot;The Last Place Insurance Companies Will Still Cover You If You Let Mississippi River Water Touch Your Skin!&quot;</spin>
+<image></image>
+<climate>0.5</climate>
+<toxicity>0.7</toxicity>
+<ecoOutlook>0.7</ecoOutlook>
+<neighbors>1</neighbors>
+<longOutlook>0.8</longOutlook>
+<viabilityIndex>3.7</viabilityIndex>
+<weather>1</weather>
+<hurricane>0</hurricane>
+<tornado>1</tornado>
+<Flood>1</Flood>
+<Drought>1</Drought>
+<Wildfire>0</Wildfire>
+<Volcano>0</Volcano>
+<Earthquake>0</Earthquake>
+<Heat>1</Heat>
+<War>0</War>
+<Disease>0</Disease>
+  <imgName>StLouis</imgName>
+</American_Cities>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <American_Cities>
+    <city>Washington</city>
+    <state>D. C.</state>
+    <facts>The Georgetown elite are moving inland as the Potomac rises, so landlords can make a fast buck on rental properties if they&apos;re willing to lose the place to flooding inside a decade. The rest of the city is increasingly polarized between wealth and poverty, so choose prospective neighborhoods carefully.</facts>
+    <spin>Scoop up these glorious old homes at unbelievable prices -- while you still can!</spin>
+    <image></image>
+    <climate>0.7</climate>
+    <toxicity>1.4</toxicity>
+    <ecoOutlook>1.5</ecoOutlook>
+    <neighbors>1.3</neighbors>
+    <longOutlook>1.5</longOutlook>
+    <viabilityIndex>6.4</viabilityIndex>
+    <weather>0</weather>
+    <hurricane>1</hurricane>
+    <tornado>0</tornado>
+    <Flood>1</Flood>
+    <Drought>0</Drought>
+    <Wildfire>0</Wildfire>
+    <Volcano>0</Volcano>
+    <Earthquake>0</Earthquake>
+    <Heat>1</Heat>
+    <War>0</War>
+    <Disease>0</Disease>
+    <imgName>WashingtonDC</imgName>
+  </American_Cities>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</dataroot>

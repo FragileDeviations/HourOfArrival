@@ -1,0 +1,1907 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  generated="2007-04-04T20:42:13">
+
+  
+  
+  <International_Cities>
+<city>Amsterdam</city>
+<country>Netherlands</country>
+<facts>The Netherlands has committed itself to a series of extraordinary engineering solutions for dealing with rising ocean levels—from floating houses to better systems of dikes.  This expertise has put Dutch environmental engineers in increasing demand throughout the world, bringing an influx of cash into Amsterdam.  But the city still faces complex social issues arising from the clash of liberal Amsterdam, long friendly to homosexuality and liberal political views and the views of conservative Morrocan, Iranian, Surinam and Turkish immigrants.</facts>
+<spin>Living It Up on the North Sea: Ride the ocean waves in your very own floating home!</spin>
+<image></image>
+<climate>1.5</climate>
+<toxicity>1.5</toxicity>
+<ecoOutlook>1.6</ecoOutlook>
+<neighbors>1.5</neighbors>
+<longOutlook>1.5</longOutlook>
+<viabilityIndex>7.6</viabilityIndex>
+<weather>0</weather>
+<hurricane>0</hurricane>
+<tornado>0</tornado>
+<Flood>1</Flood>
+<Drought>0</Drought>
+<Wildfire>0</Wildfire>
+<Volcano>0</Volcano>
+<Earthquake>0</Earthquake>
+<Heat>0</Heat>
+<War>0</War>
+<Disease>0</Disease>
+    <imgName>Amsterdam</imgName>
+</International_Cities>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<International_Cities>
+<city>Athens</city>
+<country>Greece</country>
+<facts>It&apos;s hot and getting hotter.  It&apos;s polluted and getting more polluted.  There are jobs are in Athens, but there aren&apos;t nearly as many as there are job seekers, leading to an infrastructure (especially power grid and roadways) struggling to cope with broiling summers, tons of immigrants, and the collapse of the Aegean fishery.  </facts>
+<spin>LIVE LIKE THE ANCIENT GREEKS!&lt;br /&gt;&lt;br /&gt;Aristotle didn&apos;t need air conditioning to form the basis of western thought.  Pythagoras didn&apos;t need a laptop to find pi!  Explore the wonders of ancient Greece--the same way they did!&lt;br /&gt;&lt;br /&gt;(If you need to sweeten the deal with a reluctant buyer, try throwing in a goat!  Good pets, great backyard bbq!)</spin>
+<image></image>
+<climate>0.8</climate>
+<toxicity>0.8</toxicity>
+<ecoOutlook>0.9</ecoOutlook>
+<neighbors>1</neighbors>
+<longOutlook>0.9</longOutlook>
+<viabilityIndex>4.4</viabilityIndex>
+<weather>0</weather>
+<hurricane>0</hurricane>
+<tornado>0</tornado>
+<Flood>0</Flood>
+<Drought>1</Drought>
+<Wildfire>0</Wildfire>
+<Volcano>0</Volcano>
+<Earthquake>1</Earthquake>
+<Heat>0</Heat>
+<War>0</War>
+<Disease>0</Disease>
+  <imgName>Athens</imgName>
+</International_Cities>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<International_Cities>
+  <city>Auckland</city>
+  <country>New Zealand</country>
+  <facts>The largest city of New Zealand, Auckland routinely makes the international lists of best cities in the world to live.  Although it has mild problems with air pollution, Auckland is on an isthmus and maritime local climate ensures that pollution disperses.  There is some crime and social unrest associated with Maori and Polynesian minorities.  Auckland has become a haven for Asian middle and upper classes fleeing economic and environmental issues in their own countries.</facts>
+  <spin>Simply the best!&lt;br /&gt;&lt;br /&gt;The #1 City in the World.
+</spin>
+<image></image>
+  <climate>1.8</climate>
+  <toxicity>1.9</toxicity>
+  <ecoOutlook>1.7</ecoOutlook>
+  <neighbors>1.8</neighbors>
+  <longOutlook>2</longOutlook>
+  <viabilityIndex>9.2</viabilityIndex>
+  <weather>0</weather>
+  <hurricane>0</hurricane>
+  <tornado>0</tornado>
+  <Flood>0</Flood>
+  <Drought>0</Drought>
+  <Wildfire>0</Wildfire>
+  <Volcano>0</Volcano>
+  <Earthquake>1</Earthquake>
+  <Heat>0</Heat>
+  <War>0</War>
+  <Disease>0</Disease>
+  <imgName>Auckland</imgName>
+</International_Cities>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<International_Cities>
+<city>Beijing</city>
+<country>China</country>
+<facts>In the aftermath of the &quot;one child&quot; policy, China has been producing 117 boys for every 100 girls since before the turn of the century.  As long as the nation has an aggressive military and a growing economy, 60 million extras guys who can&apos;t get laid might not be too much of a problem, but watch out if either of those things change--and consider that fact before moving to Taiwan, Vietnam, or Mongolia.
+</facts>
+<spin>Every Night is Ladies&apos; Night in the People&apos;s Republic!&lt;br /&gt;&lt;br /&gt;If you are looking to meet Mr. Right, come to Beijing, the world&apos;s new capital for Romance!</spin>
+<image></image>
+<climate>1</climate>
+<toxicity>0.8</toxicity>
+<ecoOutlook>1.4</ecoOutlook>
+<neighbors>0.9</neighbors>
+<longOutlook>1</longOutlook>
+<viabilityIndex>5.1</viabilityIndex>
+<weather>1</weather>
+<hurricane>0</hurricane>
+<tornado>0</tornado>
+<Flood>0</Flood>
+<Drought>1</Drought>
+<Wildfire>0</Wildfire>
+<Volcano>0</Volcano>
+<Earthquake>0</Earthquake>
+<Heat>0</Heat>
+<War>0</War>
+<Disease>1</Disease>
+  <imgName>Beijing</imgName>
+</International_Cities>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<International_Cities>
+  <city>Beirut</city>
+  <country>Lebanon</country>
+  <facts>Substandard water treatment and drought in Beirut contribute to rising numbers of cases of typhoid, viral hepatitis, and shigellosis, while gastroenteritis and amoebic dysentery rates rise to over 80% of the general population. Local instability makes it unlikely that water quality issues will receive serious attention any time soon.&lt;br /&gt;&lt;br /&gt;Oh yeah--and they&apos;ve been fighting wars here for about a jillion years.
+</facts>
+<spin>(A tough sell, but when life gives you lemons--make lemonade!)&lt;br /&gt;&lt;br /&gt;HOLY LAND, HOLY WARRIORS&lt;br /&gt;&lt;br /&gt;Live and love in the land of Moses/Jesus/Saladin!&lt;br /&gt;&lt;br /&gt;Only a population of brave, committed settlers can make Lebanon the Jewish/Christian/Islamic land it was meant to be.  Whether you come with a ploughshare or a sword, move to a place where you can make a difference to the fate of the Holy Land!
+</spin>
+<image></image>
+  <climate>0.8</climate>
+  <toxicity>0.6</toxicity>
+  <ecoOutlook>0.4</ecoOutlook>
+  <neighbors>0.4</neighbors>
+  <longOutlook>0.4</longOutlook>
+  <viabilityIndex>2.6</viabilityIndex>
+  <weather>0</weather>
+  <hurricane>0</hurricane>
+  <tornado>0</tornado>
+  <Flood>0</Flood>
+  <Drought>1</Drought>
+  <Wildfire>0</Wildfire>
+  <Volcano>0</Volcano>
+  <Earthquake>1</Earthquake>
+  <Heat>1</Heat>
+  <War>1</War>
+  <Disease>1</Disease>
+  <imgName>Beirut</imgName>
+</International_Cities>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<International_Cities>
+<city>Berlin</city>
+<country>Germany</country>
+<facts>Although relatively unaffected directly by global warming, Berlin has trouble generating enough electricity, particularly during summer heat waves. As power providers shift to cleaner, more renewable resources without increasing output capacity, higher temperatures and increased immigration make it even harder for Berlin to keep up, even with &lt;a target='_blank' href='http://www.commondreams.org/headlines06/0721-06.htm'&gt;&lt;u&gt;power rationing&lt;/u&gt;&lt;/a&gt;. </facts>
+<spin>Who can handle a challenge better than Germany?  When it comes to power rationing, nobody is more organized.</spin>
+<image></image>
+<climate>1</climate>
+<toxicity>1.5</toxicity>
+<ecoOutlook>1.5</ecoOutlook>
+<neighbors>1.3</neighbors>
+<longOutlook>1.5</longOutlook>
+<viabilityIndex>6.8</viabilityIndex>
+<weather>0</weather>
+<hurricane>0</hurricane>
+<tornado>0</tornado>
+<Flood>0</Flood>
+<Drought>0</Drought>
+<Wildfire>0</Wildfire>
+<Volcano>0</Volcano>
+<Earthquake>0</Earthquake>
+<Heat>1</Heat>
+<War>0</War>
+<Disease>0</Disease>
+  <imgName>Berlin</imgName>
+</International_Cities>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<International_Cities>
+  <city>Bogotá</city>
+  <country>Colombia</country>
+  <facts>As El Niño and La Niña dance a drought/flood tango across Columbia’s agricultural sector, Bogotá is frequently short of food.  Once famous for the equity and political progressiveness of its city services, Bogotá faces difficulties in continuing to raise the money needed to provide those basic services. The disappearing drug trade has been a mixed blessing, increasing poverty in some areas but also trimming back on arms dealing.</facts>
+  <spin>Cultural Renaissance High in the Andes&lt;br /&gt;&lt;br /&gt;The drug lords are moving out -- so now you can move in! Canny buyers will find luxurious mansions at unbelievable prices.&lt;br /&gt;&lt;br /&gt;The poor may be getting poorer, but they have fewer guns, so who cares?
+</spin>
+<image></image>
+  <climate>0.7</climate>
+  <toxicity>1.2</toxicity>
+  <ecoOutlook>0.9</ecoOutlook>
+  <neighbors>0.6</neighbors>
+  <longOutlook>1.4</longOutlook>
+  <viabilityIndex>4.8</viabilityIndex>
+  <weather>0</weather>
+  <hurricane>0</hurricane>
+  <tornado>0</tornado>
+  <Flood>1</Flood>
+  <Drought>1</Drought>
+  <Wildfire>1</Wildfire>
+  <Volcano>0</Volcano>
+  <Earthquake>1</Earthquake>
+  <Heat>1</Heat>
+  <War>0</War>
+  <Disease>1</Disease>
+  <imgName>Bogota</imgName>
+</International_Cities>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<International_Cities>
+<city>Buenos Aires</city>
+<country>Argentina</country>
+<facts>Always noted for its cultural richness, Buenos Aires is warming up and doing better than ever. Pollution and crowding are a problem, but a strong economy means you can find plenty of properties in the better neighborhoods. Nervous Caucasians will find Buenos Aires&apos; whiteness a breath of fresh air.</facts>
+<spin>The Paris of South America -- now with more supermodels!&lt;br /&gt;&lt;br /&gt;As Rio gets hotter and poorer, Buenos Aires is the place to be. Live with the beautiful people!</spin>
+<image></image>
+<climate>1.5</climate>
+<toxicity>1.2</toxicity>
+<ecoOutlook>1.3</ecoOutlook>
+<neighbors>1.1</neighbors>
+<longOutlook>1.3</longOutlook>
+<viabilityIndex>6.4</viabilityIndex>
+<weather>0</weather>
+<hurricane>0</hurricane>
+<tornado>0</tornado>
+<Flood>1</Flood>
+<Drought>1</Drought>
+<Wildfire>0</Wildfire>
+<Volcano>0</Volcano>
+<Earthquake>0</Earthquake>
+<Heat>0</Heat>
+<War>0</War>
+<Disease>0</Disease>
+  <imgName>BuenosAires</imgName>
+</International_Cities>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<International_Cities>
+  <city>Cairo</city>
+  <country>Egypt</country>
+  <facts>Cairo has long suffered from a classic smog inversion—lack of air movement means that pollutants hang in the city.  Now the second largest city in Africa and still rapidly growing, air pollution is estimated to kill between 10,000 and 25,000 of its residents a year. And this is only expected to get worse.  Lead levels in the air are rising, as are mercury levels in the water, raising fears of Minamata disease, mercury poisoning, which causes severe neurological impairment and death.  &lt;br /&gt;&lt;br /&gt;&lt;a target='_blank' href='http://www.eia.doe.gov/emeu/cabs/egypenv.html'&gt;&lt;u&gt;Link&lt;/u&gt;&lt;/a&gt;</facts>
+  <spin>It&apos;s the city of the Pharoahs, full of ancient secrets and, thanks to the strong hold of the local islamic theocracy, a place safe from crime and wanton behavior.  Raise your kids in a god-fearing neighborhood.  </spin>
+  <image></image>
+  <climate>0.1</climate>
+  <toxicity>0</toxicity>
+  <ecoOutlook>0.5</ecoOutlook>
+  <neighbors>0.7</neighbors>
+  <longOutlook>0.8</longOutlook>
+  <viabilityIndex>2.1</viabilityIndex>
+  <weather>0</weather>
+  <hurricane>0</hurricane>
+  <tornado>0</tornado>
+  <Flood>0</Flood>
+  <Drought>1</Drought>
+  <Wildfire>0</Wildfire>
+  <Volcano>0</Volcano>
+  <Earthquake>0</Earthquake>
+  <Heat>1</Heat>
+  <War>1</War>
+  <Disease>1</Disease>
+  <imgName>Cairo</imgName>
+</International_Cities>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<International_Cities>
+<city>Cape Town</city>
+<country>South Africa</country>
+<facts>Cape Town is temperate and well-situated.  It just has that little social and economic collapse problem.</facts>
+<spin>MAKE YOUR OWN DESTINY!&lt;br /&gt;&lt;br /&gt;Your fate is in your own hands in Cape Town.  Without social infrastructure--or even much in the way of law--your future is yours to shape!</spin>
+<image></image>
+<climate>1.5</climate>
+<toxicity>0.7</toxicity>
+<ecoOutlook>0.6</ecoOutlook>
+<neighbors>0.6</neighbors>
+<longOutlook>0.4</longOutlook>
+<viabilityIndex>3.8</viabilityIndex>
+<weather>1</weather>
+<hurricane>0</hurricane>
+<tornado>0</tornado>
+<Flood>0</Flood>
+<Drought>1</Drought>
+<Wildfire>0</Wildfire>
+<Volcano>0</Volcano>
+<Earthquake>0</Earthquake>
+<Heat>1</Heat>
+<War>1</War>
+<Disease>1</Disease>
+  <imgName>CapeTown</imgName>
+</International_Cities>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<International_Cities>
+  <city>Copenhagen</city>
+  <country>Denmark</country>
+  <facts>Copenhagen seems well situated to weather climate change.  With a climate moderated by both the North and Baltic seas, it won&apos;t get too hot.  However, rising ocean levels could be problematic given the amount of waterfront the city has.  Right now, the city is booming modestly.</facts>
+  <spin>Copenhagen:  it&apos;s more than just mermaids and chewing tobacco!&lt;br /&gt;&lt;br /&gt;In Denmark you can&lt;br /&gt;*avoid the heat without losing the sun!&lt;br /&gt;*have 4 seasons!&lt;br /&gt;*live in a country nobody else hates!
+</spin>
+  <image></image>
+  <climate>1.5</climate>
+  <toxicity>1.5</toxicity>
+  <ecoOutlook>1.6</ecoOutlook>
+  <neighbors>1.7</neighbors>
+  <longOutlook>1.4</longOutlook>
+  <viabilityIndex>7.7</viabilityIndex>
+  <weather>0</weather>
+  <hurricane>0</hurricane>
+  <tornado>0</tornado>
+  <Flood>1</Flood>
+  <Drought>0</Drought>
+  <Wildfire>0</Wildfire>
+  <Volcano>0</Volcano>
+  <Earthquake>0</Earthquake>
+  <Heat>0</Heat>
+  <War>0</War>
+  <Disease>0</Disease>
+  <imgName>Copenhagen</imgName>
+</International_Cities>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<International_Cities>
+<city>Delhi</city>
+<country>India</country>
+<facts>Always prone to power blackouts and water shortages, Delhi is watching its middle and upper classes shrink while the lower classes swell. Tensions during summer are exacerbated by nationalist violence, with fighting breaking out against Muslim and Sikh minorities. Severe water shortages and high temperatures kill thousands every summer, with mortality rates rising each year.</facts>
+<spin>FREE YOUR MIND&lt;br /&gt;&lt;br /&gt;Learn the ancient eastern spiritual qualities of detachment and tranquility!  Here is a place where you can let go of your reliance on material things and cultivate the inner self!&lt;br /&gt;&lt;br /&gt;BONUS!  Practice Bikram Yoga in your own home!  No extra equipment needed!</spin>
+<image></image>
+<climate>0.6</climate>
+<toxicity>0.5</toxicity>
+<ecoOutlook>0.6</ecoOutlook>
+<neighbors>0.7</neighbors>
+<longOutlook>0.8</longOutlook>
+<viabilityIndex>3.2</viabilityIndex>
+<weather>1</weather>
+<hurricane>1</hurricane>
+<tornado>1</tornado>
+<Flood>1</Flood>
+<Drought>1</Drought>
+<Wildfire>0</Wildfire>
+<Volcano>0</Volcano>
+<Earthquake>1</Earthquake>
+<Heat>1</Heat>
+<War>1</War>
+<Disease>1</Disease>
+  <imgName>Delhi</imgName>
+</International_Cities>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<International_Cities>
+  <city>Edinburgh</city>
+  <country>Scotland</country>
+  <facts>Rising temperatures and poor land management have pushed the lowland heaths to the edge of catastrophe, but Scotland&apos;s urban centers are doing better than ever. The always moderate climate is now warmer and cheerier, and Edinburgh in particular is attracting intellectuals looking for a friendlier political climate. If buyers hate bagpipes or outdoor festivals, guide them elsewhere; everyone else will love it.</facts>
+  <spin>SCOTTISH ENLIGHTENMENT 2.0!!!&lt;br /&gt;&lt;br /&gt;Academics, artists and free-thinkers flock to Edinburgh, which plays host to a rebirth of art and progressive political thinking. All with pleasant year-round temperatures and plentiful water (blended or single malt).
+</spin>
+<image></image>
+  <climate>1.8</climate>
+  <toxicity>1.3</toxicity>
+  <ecoOutlook>2</ecoOutlook>
+  <neighbors>1.9</neighbors>
+  <longOutlook>1.8</longOutlook>
+  <viabilityIndex>8.8</viabilityIndex>
+  <weather>1</weather>
+  <hurricane>0</hurricane>
+  <tornado>0</tornado>
+  <Flood>0</Flood>
+  <Drought>0</Drought>
+  <Wildfire>0</Wildfire>
+  <Volcano>0</Volcano>
+  <Earthquake>0</Earthquake>
+  <Heat>0</Heat>
+  <War>0</War>
+  <Disease>0</Disease>
+  <imgName>Edinburgh</imgName>
+</International_Cities>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<International_Cities>
+<city>Helsinki</city>
+<country>Finland</country>
+<facts>Helsinki has dealt well with rising sea levels and has benefited somewhat from rising global temperatures, although temperatures are mostly moderated by the surrounding water.  Long famous for being a city with no poor districts, Helsinki is struggling with an influx of foreign immigration fleeing drought and economic difficulty. Growing social inequality is expected to be accompanied by rising drug use and crime.&lt;br /&gt;&lt;br /&gt;Nobody has ever figured out why the most taciturn people on earth have pioneered cell phone networks.  Beats having to be in a room with someone, I guess.
+</facts>
+<spin>HOTTER THAN HELL?&lt;br /&gt;&lt;br /&gt;MOVE TO HELSINKI!&lt;br /&gt;&lt;br /&gt;Now you can have the coolest cell phone in Europe, AND be warm!</spin>
+<image></image>
+<climate>2</climate>
+<toxicity>1.9</toxicity>
+<ecoOutlook>1.6</ecoOutlook>
+<neighbors>1.5</neighbors>
+<longOutlook>1.6</longOutlook>
+<viabilityIndex>8.6</viabilityIndex>
+<weather>1</weather>
+<hurricane>0</hurricane>
+<tornado>0</tornado>
+<Flood>0</Flood>
+<Drought>0</Drought>
+<Wildfire>0</Wildfire>
+<Volcano>0</Volcano>
+<Earthquake>0</Earthquake>
+<Heat>0</Heat>
+<War>0</War>
+<Disease>0</Disease>
+  <imgName>Helsinki</imgName>
+</International_Cities>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<International_Cities>
+  <city>Johannesburg</city>
+  <country>South Africa</country>
+  <facts>Struggling to maintain some infrastructure in the face of the African social crisis, Johannesburg is marginally able to maintain some semblance of city order, some of the time.</facts>
+  <spin>JOHANNESBURG&lt;br /&gt;&lt;br /&gt;&quot;The next best thing to not having to live in Africa at all.&quot;
+</spin>
+<image></image>
+  <climate>1</climate>
+  <toxicity>0.6</toxicity>
+  <ecoOutlook>0.6</ecoOutlook>
+  <neighbors>0.6</neighbors>
+  <longOutlook>0.5</longOutlook>
+  <viabilityIndex>3.3</viabilityIndex>
+  <weather>0</weather>
+  <hurricane>0</hurricane>
+  <tornado>0</tornado>
+  <Flood>0</Flood>
+  <Drought>1</Drought>
+  <Wildfire>0</Wildfire>
+  <Volcano>0</Volcano>
+  <Earthquake>0</Earthquake>
+  <Heat>1</Heat>
+  <War>1</War>
+  <Disease>1</Disease>
+  <imgName>Johannesburg</imgName>
+</International_Cities>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<International_Cities>
+<city>Karachi</city>
+<country>Pakistan</country>
+<facts>The largest city in Pakistan, Karachi is growing at an unsustainable rate of about 5% per year.  In the large, poverty-stricken communities which do not receive piped water, people are dependent on an illegal water mafia which delivers water by tanker or establishes illegal hydrants which supply contaminated sub-soil water from the Lyari river, into which the city&apos;s sewage is pumped. </facts>
+<spin>If Your Future is about…&lt;br /&gt;&lt;br /&gt;* water management&lt;br /&gt;* cholera research&lt;br /&gt;* for-profit charities&lt;br /&gt;* never being found again.  Ever.&lt;br /&gt;&lt;br /&gt;Then...&lt;br /&gt;KARACHI IS FOR YOU!</spin>
+<image></image>
+<climate>0.6</climate>
+<toxicity>0.1</toxicity>
+<ecoOutlook>0</ecoOutlook>
+<neighbors>0.5</neighbors>
+<longOutlook>0.2</longOutlook>
+<viabilityIndex>1.4</viabilityIndex>
+<weather>0</weather>
+<hurricane>1</hurricane>
+<tornado>0</tornado>
+<Flood>1</Flood>
+<Drought>1</Drought>
+<Wildfire>0</Wildfire>
+<Volcano>0</Volcano>
+<Earthquake>1</Earthquake>
+<Heat>1</Heat>
+<War>1</War>
+<Disease>1</Disease>
+  <imgName>Karachi</imgName>
+</International_Cities>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<International_Cities>
+  <city>Lagos</city>
+  <country>Nigeria</country>
+  <facts>Lagos is the most populous city in Nigeria and arguably the most populous city in all Africa. Although nominally governed by the Nigerian state, it is in most ways an anarchic free-for-all. HIV and hepatitis are epidemic. The mortality rate is extraordinary. There are no social services. Climate change has made it living hell 360 days out of the year.&lt;br /&gt;Land is cheap, though.
+</facts>
+<spin>DO ANYTHING&lt;br /&gt;&lt;br /&gt;Seriously.&lt;br /&gt;&lt;br /&gt;Nowhere on the planet is the law more laughable.&lt;br /&gt;Nowhere on the planet are people more desperate.&lt;br /&gt;Nowhere on the planet is human life less sacred.&lt;br /&gt;&lt;br /&gt;DO ANYTHING&lt;br /&gt;&lt;br /&gt;But don&apos;t tell us.&lt;br /&gt;&lt;br /&gt;Cash payment only, in advance.  Bring a gun and something to boil water.
+</spin>
+<image></image>
+<climate>0.2</climate>
+  <toxicity>0</toxicity>
+  <ecoOutlook>0.1</ecoOutlook>
+  <neighbors>0</neighbors>
+  <longOutlook>0.1</longOutlook>
+  <viabilityIndex>0.4</viabilityIndex>
+  <weather>0</weather>
+  <hurricane>0</hurricane>
+  <tornado>0</tornado>
+  <Flood>0</Flood>
+  <Drought>1</Drought>
+  <Wildfire>0</Wildfire>
+  <Volcano>0</Volcano>
+  <Earthquake>0</Earthquake>
+  <Heat>1</Heat>
+  <War>1</War>
+  <Disease>1</Disease>
+  <imgName>Lagos</imgName>
+</International_Cities>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<International_Cities>
+<city>Lima</city>
+<country>Peru</country>
+<facts>Ecological devastation of Andean croplands has sent historic numbers of mountain dwellers down to Lima&apos;s already overburdened shantytowns. Overcrowding and poor water means that cholera is less like a disaster and more like a way of life. Lima&apos;s upper classes are holding on by a thread, and pollution is getting worse by the year.&lt;br /&gt;&lt;br /&gt;On the bright side, the watery lloviznas are getting shorter and less frequent, so the weather is a lot nicer.</facts>
+<spin>Dramatic Pacific coast scenery in the land of the Incas. And northern hemisphere stargazers will love the new constellations!</spin>
+<image></image>
+<climate>1.1</climate>
+<toxicity>0.6</toxicity>
+<ecoOutlook>0.7</ecoOutlook>
+<neighbors>0.7</neighbors>
+<longOutlook>0.9</longOutlook>
+<viabilityIndex>4</viabilityIndex>
+<weather>0</weather>
+<hurricane>0</hurricane>
+<tornado>0</tornado>
+<Flood>1</Flood>
+<Drought>1</Drought>
+<Wildfire>0</Wildfire>
+<Volcano>0</Volcano>
+<Earthquake>1</Earthquake>
+<Heat>1</Heat>
+<War>0</War>
+<Disease>1</Disease>
+  <imgName>Lima</imgName>
+</International_Cities>
+  
+  
+  
+  
+  
+<International_Cities>
+<city>London</city>
+<country>England</country>
+<facts>Rising water levels have caused problems with sewage leaking into the Thames.  But London is enjoying an influx of more tropical fruits and vegetables, thanks to milder winters and longer summers.  Curry, long the national dish, is now made with local ingredients.</facts>
+<spin>All the pleasures of a southern climate, with the subdued charm of the buttoned-up English.</spin>
+<image></image>
+<climate>1.5</climate>
+<toxicity>1.3</toxicity>
+<ecoOutlook>1.6</ecoOutlook>
+<neighbors>1.4</neighbors>
+<longOutlook>1.5</longOutlook>
+<viabilityIndex>7.3</viabilityIndex>
+<weather>0</weather>
+<hurricane>0</hurricane>
+<tornado>1</tornado>
+<Flood>0</Flood>
+<Drought>0</Drought>
+<Wildfire>0</Wildfire>
+<Volcano>0</Volcano>
+<Earthquake>0</Earthquake>
+<Heat>0</Heat>
+<War>0</War>
+<Disease>0</Disease>
+  <imgName>London</imgName>
+</International_Cities>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<International_Cities>
+  <city>Madrid</city>
+  <country>Spain</country>
+  <facts>Spain is turning out to be the European country most affected by climate change.  Rainfall is down, heat is up.  A well-educated population has kept Madrid from going the way of Athens and the economic outlook is holding fairly steady, meaning that Madrid will probably be a stable place, even if the &lt;a target='_blank' href='http://www.iberianature.com/material/iberiaclimatechange.html#iberia_climate_change'&gt;&lt;u&gt;summers&lt;/u&gt;&lt;/a&gt; are pretty horrible.</facts>
+  <spin>Sure it&apos;s hot, but no one eats until 9:00 at night anyway.  </spin>
+  <image></image>
+  <climate>0.6</climate>
+  <toxicity>1.1</toxicity>
+  <ecoOutlook>0.9</ecoOutlook>
+  <neighbors>1.5</neighbors>
+  <longOutlook>1.3</longOutlook>
+  <viabilityIndex>5.4</viabilityIndex>
+  <weather>0</weather>
+  <hurricane>0</hurricane>
+  <tornado>0</tornado>
+  <Flood>0</Flood>
+  <Drought>1</Drought>
+  <Wildfire>0</Wildfire>
+  <Volcano>0</Volcano>
+  <Earthquake>0</Earthquake>
+  <Heat>1</Heat>
+  <War>0</War>
+  <Disease>0</Disease>
+  <imgName>Madrid</imgName>
+</International_Cities>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<International_Cities>
+<city>Manila</city>
+<country>Philippines</country>
+<facts>Manila has exploded in the last century and growth has rapidly outpaced the water and sewage lines.  Rising sea levels and increased temperatures have not affected Manila much, although an increase in typhoons isn&apos;t the greatest news.  </facts>
+<spin>Still the best place in the Phillipines!</spin>
+<image></image>
+<climate>0.3</climate>
+<toxicity>0.8</toxicity>
+<ecoOutlook>0.8</ecoOutlook>
+<neighbors>1</neighbors>
+<longOutlook>1</longOutlook>
+<viabilityIndex>3.9</viabilityIndex>
+<weather>1</weather>
+<hurricane>1</hurricane>
+<tornado>0</tornado>
+<Flood>1</Flood>
+<Drought>0</Drought>
+<Wildfire>0</Wildfire>
+<Volcano>0</Volcano>
+<Earthquake>1</Earthquake>
+<Heat>1</Heat>
+<War>1</War>
+<Disease>1</Disease>
+  <imgName>Manila</imgName>
+</International_Cities>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<International_Cities>
+  <city>Mexico City</city>
+  <country>Mexico</country>
+  <facts>Rural poor continue to settle in unauthorized squatter neighborhoods where there is no running water or sewer. Without waste water treatment, fecal matter dries and becomes airborne, where, along with other particulates, it causes repiratory infections.  However, Mexico City’s population growth has slowed dramtically from a high of 5% per year in the middle of the twentieth century to a little less than 2% per year.  If you are wealthy enough to afford a chauffeur, bodyguards, air and water filtration and good air conditioning, Mexico can still be a great place. &lt;a target='_blank' href='http://www.springerlink.com/content/l21352415m1617r7/'&gt;&lt;u&gt;Link&lt;/u&gt;&lt;/a&gt;</facts>
+  <spin>MEXICO CITY&lt;br /&gt;&lt;br /&gt;It&apos;s No Fun To Be Rich&lt;br /&gt;If Everybody&apos;s Doing It&lt;br /&gt;&lt;br /&gt;LIVE LIKE A CONQUISTADOR
+</spin>
+  <image></image>
+  <climate>0</climate>
+  <toxicity>0.2</toxicity>
+  <ecoOutlook>0.4</ecoOutlook>
+  <neighbors>0.4</neighbors>
+  <longOutlook>0.4</longOutlook>
+  <viabilityIndex>1.4</viabilityIndex>
+  <weather>0</weather>
+  <hurricane>1</hurricane>
+  <tornado>0</tornado>
+  <Flood>1</Flood>
+  <Drought>1</Drought>
+  <Wildfire>0</Wildfire>
+  <Volcano>0</Volcano>
+  <Earthquake>1</Earthquake>
+  <Heat>1</Heat>
+  <War>0</War>
+  <Disease>1</Disease>
+  <imgName>MexicoCity</imgName>
+</International_Cities>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<International_Cities>
+<city>Mombasa</city>
+<country>Kenya</country>
+<facts>At least 14% of Mombasa&apos;s population -- up to 50% in places -- is HIV positive. The hardest hit group is the educated young, decimating the middle class and causing tremendous shortages of doctors, lawyers, architects, and the professional classes. The AIDS epidemic, coupled with ecological devastation of the ocean and (consequently)  the local economy, have seemed nearly insurmountable since the turn of the century.
+&lt;a target='_blank' href='http://www.aegis.com/news/ifrc/2004/IF040301.html'&gt;&lt;u&gt;Link&lt;/u&gt;&lt;/a&gt;</facts>
+<spin>ROOM FOR ADVANCEMENT&lt;br /&gt;&lt;br /&gt;Are You A…&lt;br /&gt;&lt;br /&gt;Doctor?  Lawyer?  Nurse?  Optometrist?  Accountant?  MBA?  Cook?  Farmer? Engineer?  Diplomat?  Linguist?  Mechanic?  Journalist?  Bartender?  Ditch digger?  Gunsmith?  Priest?  Undertaker?  Mortician?  Gravedigger?  Holy man?  Saint?&lt;br /&gt;&lt;br /&gt;MOMBASA NEEDS YOU</spin>
+<image></image>
+<climate>0.3</climate>
+<toxicity>0.4</toxicity>
+<ecoOutlook>0.4</ecoOutlook>
+<neighbors>0.9</neighbors>
+<longOutlook>0</longOutlook>
+<viabilityIndex>2</viabilityIndex>
+<weather>0</weather>
+<hurricane>0</hurricane>
+<tornado>0</tornado>
+<Flood>1</Flood>
+<Drought>1</Drought>
+<Wildfire>0</Wildfire>
+<Volcano>0</Volcano>
+<Earthquake>1</Earthquake>
+<Heat>1</Heat>
+<War>1</War>
+<Disease>1</Disease>
+  <imgName>Mombasa</imgName>
+</International_Cities>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<International_Cities>
+  <city>Moscow</city>
+  <country>Russia</country>
+  <facts>Moscow has been unable to leverage to improving weather in the capital.  Plagued by high rates of alcoholism, crime that is not just organized but institutionalized, and the lowest birth rates in the world, the city is in economic freefall.&lt;br /&gt;&lt;br /&gt;On the other hand, there&apos;s a lot more tennis and a lot less skiing.  If only Napoleon and Hitler could have waited....
+</facts>
+<spin>LIVE LIKE THE RUSSIAN MAFIA!&lt;br /&gt;&lt;br /&gt;Historic and luxurious dachas available outside Moscow at fire sale prices!
+</spin>
+  <image></image>
+  <climate>0.8</climate>
+  <toxicity>0.9</toxicity>
+  <ecoOutlook>0.6</ecoOutlook>
+  <neighbors>1</neighbors>
+  <longOutlook>0.6</longOutlook>
+  <viabilityIndex>3.9</viabilityIndex>
+  <weather>1</weather>
+  <hurricane>0</hurricane>
+  <tornado>0</tornado>
+  <Flood>0</Flood>
+  <Drought>0</Drought>
+  <Wildfire>0</Wildfire>
+  <Volcano>0</Volcano>
+  <Earthquake>0</Earthquake>
+  <Heat>0</Heat>
+  <War>0</War>
+  <Disease>1</Disease>
+  <imgName>Moscow</imgName>
+</International_Cities>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<International_Cities>
+<city>Paris</city>
+<country>France</country>
+<facts>After &lt;a target='_blank' href='http://www.usatoday.com/weather/news/2003-09-25-france-heat_x.htm'&gt;&lt;u&gt;deadly heat waves&lt;/u&gt;&lt;/a&gt; at the turn of the century killed more than 15,000 of the sick and elderly, Paris becomes more air conditioned, with a heat wave warning system that has also reduced heat mortality. However, immigrants in the city&apos;s huge apartment complexes charge that they continue to bear the brunt of the city&apos;s annual water shortages and that they are denied access to jobs and education. Cycles of riots and uneasy quiet continue to plague the city.</facts>
+<spin>IT&apos;S PARIS! &lt;br /&gt;&lt;br /&gt;(just run your air conditioner in the summer.)</spin>
+<image></image>
+<climate>0.9</climate>
+<toxicity>1</toxicity>
+<ecoOutlook>1.4</ecoOutlook>
+<neighbors>1.4</neighbors>
+<longOutlook>1.5</longOutlook>
+<viabilityIndex>6.2</viabilityIndex>
+<weather>0</weather>
+<hurricane>0</hurricane>
+<tornado>0</tornado>
+<Flood>0</Flood>
+<Drought>0</Drought>
+<Wildfire>0</Wildfire>
+<Volcano>0</Volcano>
+<Earthquake>0</Earthquake>
+<Heat>1</Heat>
+<War>0</War>
+<Disease>0</Disease>
+  <imgName>Paris</imgName>
+</International_Cities>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<International_Cities>
+<city>Rio de Janeiro</city>
+<country>Brazil</country>
+<facts>Rio is hot and not just because of Carnival.  Although the ocean moderates temperatures, they&apos;re still baking on Ipanema and Copacabana.  In the favela, there&apos;s crime, drugs and feral children.  Water pollution remains a constant problem.  But the party still happens on Fat Tuesday.</facts>
+<spin>It&apos;s the party city of the planet!  If you can&apos;t forget your problems in Rio, you don&apos;t have a pulse!  Carnaval!</spin>
+<image></image>
+<climate>0.7</climate>
+<toxicity>0.7</toxicity>
+<ecoOutlook>1</ecoOutlook>
+<neighbors>0.7</neighbors>
+<longOutlook>0.8</longOutlook>
+<viabilityIndex>3.9</viabilityIndex>
+<weather>0</weather>
+<hurricane>0</hurricane>
+<tornado>0</tornado>
+<Flood>1</Flood>
+<Drought>1</Drought>
+<Wildfire>1</Wildfire>
+<Volcano>0</Volcano>
+<Earthquake>1</Earthquake>
+<Heat>1</Heat>
+<War>0</War>
+<Disease>1</Disease>
+  <imgName>RioDeJaneiro</imgName>
+</International_Cities>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<International_Cities>
+<city>Rome</city>
+<country>Italy</country>
+<facts>At the turn of the century, Rome&apos;s mortality rate during &lt;a target='_blank' href='http://www.cdc.gov/mmwR/preview/mmwrhtml/mm5317a5.htm'&gt;&lt;u&gt;heat waves&lt;/u&gt;&lt;/a&gt; grew by almost 25%. For the first time in decades, malaria and encephalitis have been seen in Italy again, and although cases have not been reported in Rome, it may only be a matter of time.</facts>
+<spin>Rome, the city is hot again!  And marble cools like no other building material.</spin>
+<image></image>
+<climate>0.7</climate>
+<toxicity>0.9</toxicity>
+<ecoOutlook>1.1</ecoOutlook>
+<neighbors>1.4</neighbors>
+<longOutlook>1</longOutlook>
+<viabilityIndex>5.1</viabilityIndex>
+<weather>0</weather>
+<hurricane>0</hurricane>
+<tornado>0</tornado>
+<Flood>0</Flood>
+<Drought>1</Drought>
+<Wildfire>0</Wildfire>
+<Volcano>0</Volcano>
+<Earthquake>0</Earthquake>
+<Heat>1</Heat>
+<War>0</War>
+<Disease>0</Disease>
+  <imgName>Rome</imgName>
+</International_Cities>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<International_Cities>
+<city>Saint Petersburg</city>
+<country>Russia</country>
+<facts>Despite issues of rising sea levels, St. Petersburg is enjoying a renaissance driven by people fleeing the summer heat waves of Europe.  Pollution is a bit of a problem, as are crime and traffic mortality rates, but all that pales in comparison to mild summers and good jobs, right?</facts>
+<spin>Europe&apos;s Summer Party City, with 20 hours of daylight!  The party lasts forever!</spin>
+<image></image>
+<climate>1.6</climate>
+<toxicity>0.9</toxicity>
+<ecoOutlook>1.3</ecoOutlook>
+<neighbors>1.1</neighbors>
+<longOutlook>1.3</longOutlook>
+<viabilityIndex>6.2</viabilityIndex>
+<weather>1</weather>
+<hurricane>0</hurricane>
+<tornado>0</tornado>
+<Flood>1</Flood>
+<Drought>0</Drought>
+<Wildfire>0</Wildfire>
+<Volcano>0</Volcano>
+<Earthquake>0</Earthquake>
+<Heat>0</Heat>
+<War>0</War>
+<Disease>0</Disease>
+  <imgName>StPetersberg</imgName>
+</International_Cities>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<International_Cities>
+  <city>Santiago</city>
+  <country>Chile</country>
+  <facts>Santiago&apos;s hole in the ozone layer has contributed towards that city&apos;s record as the cancer capital of the earth. Crime and pollution are on the rise, and jobs are hard to come by. Still, cool Pacific air is keeping the climate pleasant. That counts for something!</facts>
+  <spin>Dermatologists!  If you want to see everything from poisonous looking moles to the skin diseases of poverty, this is the place.  And aren&apos;t llamas cute?</spin>
+  <image></image>
+  <climate>1.5</climate>
+  <toxicity>0.7</toxicity>
+  <ecoOutlook>0.9</ecoOutlook>
+  <neighbors>0.8</neighbors>
+  <longOutlook>0.9</longOutlook>
+  <viabilityIndex>4.8</viabilityIndex>
+  <weather>0</weather>
+  <hurricane>0</hurricane>
+  <tornado>0</tornado>
+  <Flood>1</Flood>
+  <Drought>1</Drought>
+  <Wildfire>0</Wildfire>
+  <Volcano>0</Volcano>
+  <Earthquake>1</Earthquake>
+  <Heat>0</Heat>
+  <War>0</War>
+  <Disease>1</Disease>
+  <imgName>Santiago</imgName>
+</International_Cities>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<International_Cities>
+<city>Seoul</city>
+<country>Korea (South)</country>
+<facts>Seoul has long been an economic powerhouse, but an increasingly severe drought cycle threatens the rice industry that the country once depended on. The city is running short of water by 2 billion tons a year, affecting locally headquartered multinationals and households alike. Rising global temperatures and depleted aquifers mean this problem is only worsening.</facts>
+<spin>An Asian Powerhouse But Not As Crazy As Tokyo!</spin>
+<image></image>
+<climate>1</climate>
+<toxicity>1.2</toxicity>
+<ecoOutlook>1.3</ecoOutlook>
+<neighbors>1.6</neighbors>
+<longOutlook>1.2</longOutlook>
+<viabilityIndex>6.3</viabilityIndex>
+<weather>0</weather>
+<hurricane>0</hurricane>
+<tornado>0</tornado>
+<Flood>0</Flood>
+<Drought>1</Drought>
+<Wildfire>0</Wildfire>
+<Volcano>0</Volcano>
+<Earthquake>0</Earthquake>
+<Heat>1</Heat>
+<War>0</War>
+<Disease>0</Disease>
+  <imgName>Seoul</imgName>
+</International_Cities>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<International_Cities>
+  <city>Shanghai</city>
+  <country>China</country>
+  <facts>Increased heat and monsoon activity make Shanghai--once known as the Paris of China--now more like the Bangladesh of China.  Even as the city moves northeast to escape rising sea levels, it keeps adding more cars, more people and more demands on its local environment.  Still, there is that undeniable big-city Shanghai magic.  It&apos;s still full of energy, and the source of many of China&apos;s fashion and cultural trends.</facts>
+  <spin>Fashion!  Restaurants!&lt;br /&gt;&lt;br /&gt;Shanghai&apos;s Cooking!&lt;br /&gt;Feel the Heat!
+</spin>
+  <image></image>
+  <climate>0.4</climate>
+  <toxicity>0.9</toxicity>
+  <ecoOutlook>1</ecoOutlook>
+  <neighbors>1.4</neighbors>
+  <longOutlook>1.1</longOutlook>
+  <viabilityIndex>4.8</viabilityIndex>
+  <weather>0</weather>
+  <hurricane>1</hurricane>
+  <tornado>0</tornado>
+  <Flood>1</Flood>
+  <Drought>0</Drought>
+  <Wildfire>0</Wildfire>
+  <Volcano>0</Volcano>
+  <Earthquake>1</Earthquake>
+  <Heat>1</Heat>
+  <War>0</War>
+  <Disease>1</Disease>
+  <imgName>Shanghai</imgName>
+</International_Cities>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<International_Cities>
+<city>Jakarta</city>
+<country>Indonesia</country>
+<facts>Indonesia is losing islands due to rising sea water and increased monsoon activity.  Jakarta, already one of the largest cities on the planet, is swelling with the influx.  As Jakarta expands, it cuts down trees, increasing flooding problems in the already low-lying city.  Still, it's seen as a place of economic opportunity by Indonesians, and in a Darwinian way, that&apos;s probably true.</facts>
+<spin>Jakarta--better than staying on an island with an elevation of 1 meter below sea level!</spin>
+<image></image>
+<climate>0.8</climate>
+<toxicity>0.6</toxicity>
+<ecoOutlook>0.6</ecoOutlook>
+<neighbors>0.9</neighbors>
+<longOutlook>0.7</longOutlook>
+<viabilityIndex>3.6</viabilityIndex>
+<weather>0</weather>
+<hurricane>1</hurricane>
+<tornado>0</tornado>
+<Flood>1</Flood>
+<Drought>0</Drought>
+<Wildfire>1</Wildfire>
+<Volcano>1</Volcano>
+<Earthquake>1</Earthquake>
+<Heat>1</Heat>
+<War>1</War>
+<Disease>1</Disease>
+  <imgName>Jakarta</imgName>
+</International_Cities>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<International_Cities>
+<city>Stockholm</city>
+<country>Sweden</country>
+<facts>Stockholm is all islands, so it&apos;s at some risk from rising sea levels, but like the rest of Scandanavia, it&apos;s benefiting from a milder climate.  And the Stockholmers, long famous for being early adopters, are rising to the technological challenges of global warming.</facts>
+<spin>Blondes and beaches with an 18 hour summer day.  Stockholm.</spin>
+<image></image>
+<climate>1.7</climate>
+<toxicity>1.7</toxicity>
+<ecoOutlook>1.6</ecoOutlook>
+<neighbors>1.5</neighbors>
+<longOutlook>1.6</longOutlook>
+<viabilityIndex>8.1</viabilityIndex>
+<weather>0</weather>
+<hurricane>0</hurricane>
+<tornado>0</tornado>
+<Flood>0</Flood>
+<Drought>0</Drought>
+<Wildfire>0</Wildfire>
+<Volcano>0</Volcano>
+<Earthquake>0</Earthquake>
+<Heat>0</Heat>
+<War>0</War>
+<Disease>0</Disease>
+  <imgName>Stockholm</imgName>
+</International_Cities>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<International_Cities>
+<city>Sydney</city>
+<country>Australia</country>
+<facts>El Ni&#241;o Southern Oscillation means that Sydney oscillates between flash floods and brush fires.  Temperatures are continuing to rise as Australia, like the United States, shows more extremes of temperature and climate than the big Asia-Europe land mass.  The good news is that it&apos;s far from just about everything, meaning not many problems with borders and pesky refugees.</facts>
+<spin>Sydney…we&apos;re at the end of the world, where it&apos;s nice and safe.</spin>
+<image></image>
+<climate>1</climate>
+<toxicity>1.5</toxicity>
+<ecoOutlook>1.5</ecoOutlook>
+<neighbors>1.8</neighbors>
+<longOutlook>1.6</longOutlook>
+<viabilityIndex>7.4</viabilityIndex>
+<weather>0</weather>
+<hurricane>0</hurricane>
+<tornado>0</tornado>
+<Flood>0</Flood>
+<Drought>1</Drought>
+<Wildfire>1</Wildfire>
+<Volcano>0</Volcano>
+<Earthquake>1</Earthquake>
+<Heat>1</Heat>
+<War>0</War>
+<Disease>0</Disease>
+  <imgName>Sydney</imgName>
+</International_Cities>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<International_Cities>
+  <city>Taipei</city>
+  <country>Taiwan</country>
+  <facts>The Chinese word for lively literally translates to &quot;hot-noisy,&quot; and Taipei is that.  It faces flooding, heat and rising rates of disease.  And does so while still selling everything but the shirt off its back.</facts>
+  <spin>Think you&apos;re an Entrepeneur?  This is your city of opportunity!</spin>
+  <image></image>
+  <climate>0.8</climate>
+  <toxicity>1.1</toxicity>
+  <ecoOutlook>1.1</ecoOutlook>
+  <neighbors>1.5</neighbors>
+  <longOutlook>1.2</longOutlook>
+  <viabilityIndex>5.7</viabilityIndex>
+  <weather>0</weather>
+  <hurricane>1</hurricane>
+  <tornado>0</tornado>
+  <Flood>1</Flood>
+  <Drought>0</Drought>
+  <Wildfire>0</Wildfire>
+  <Volcano>0</Volcano>
+  <Earthquake>1</Earthquake>
+  <Heat>1</Heat>
+  <War>0</War>
+  <Disease>1</Disease>
+  <imgName>Taipei</imgName>
+</International_Cities>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<International_Cities>
+<city>Tokyo</city>
+<country>Japan</country>
+<facts>Tokyo faces some threat from flooding and has had to establish a heat warning system to protect the sick and the elderly from heat waves.  Check flood maps for the ramifications of rising sea levels if property is anywhere near the water.  The bigger problem, foreigner-unfriendly Tokyo has a lot of retirees, and not enough people to fill jobs. An influx of foreign guest workers could cause some social problems.</facts>
+<spin>The capital of Japan, and still an Asian economic powerhouse.</spin>
+<image></image>
+<climate>1</climate>
+<toxicity>0.9</toxicity>
+<ecoOutlook>1.5</ecoOutlook>
+<neighbors>1.6</neighbors>
+<longOutlook>1.5</longOutlook>
+<viabilityIndex>6.5</viabilityIndex>
+<weather>0</weather>
+<hurricane>1</hurricane>
+<tornado>0</tornado>
+<Flood>1</Flood>
+<Drought>0</Drought>
+<Wildfire>0</Wildfire>
+<Volcano>0</Volcano>
+<Earthquake>1</Earthquake>
+<Heat>1</Heat>
+<War>0</War>
+<Disease>0</Disease>
+  <imgName>Tokyo</imgName>
+</International_Cities>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<International_Cities>
+  <city>Toronto</city>
+  <country>Canada</country>
+  <facts>Toronto has attracted the cautious looking for a city with a future.  It has also attracted the speculators and house flippers, leading to high housing prices and truly terrible traffic. </facts>
+  <spin>Toronto but warmer!  What&apos;s not to love!</spin>
+  <image></image>
+  <climate>1.2</climate>
+  <toxicity>1.6</toxicity>
+  <ecoOutlook>1.9</ecoOutlook>
+  <neighbors>1.8</neighbors>
+  <longOutlook>1.8</longOutlook>
+  <viabilityIndex>8.3</viabilityIndex>
+  <weather>0</weather>
+  <hurricane>0</hurricane>
+  <tornado>1</tornado>
+  <Flood>0</Flood>
+  <Drought>0</Drought>
+  <Wildfire>0</Wildfire>
+  <Volcano>0</Volcano>
+  <Earthquake>0</Earthquake>
+  <Heat>0</Heat>
+  <War>0</War>
+  <Disease>0</Disease>
+  <imgName>Toronto</imgName>
+</International_Cities>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<International_Cities>
+<city>Vancouver</city>
+<country>Canada</country>
+<facts>Anchorage may be the new Seattle, but Vancouver is the new Santa Barbara.  Temperate to warm, lush multicultural Vancouver is a big winner in the climate change sweepstakes.  Watch for possible mudslide areas, otherwise, happy real estate sales!</facts>
+<spin>It&apos;s the last rainforest, baby! While equatorial rainforests dry up, Vancouver&apos;s rainforest is the new home to dozens of nearly extinct varieties of flora and fauna.</spin>
+<image></image>
+<climate>1.8</climate>
+<toxicity>2</toxicity>
+<ecoOutlook>1.8</ecoOutlook>
+<neighbors>1.8</neighbors>
+<longOutlook>1.5</longOutlook>
+<viabilityIndex>8.9</viabilityIndex>
+<weather>1</weather>
+<hurricane>0</hurricane>
+<tornado>0</tornado>
+<Flood>1</Flood>
+<Drought>0</Drought>
+<Wildfire>0</Wildfire>
+<Volcano>0</Volcano>
+<Earthquake>1</Earthquake>
+<Heat>0</Heat>
+<War>0</War>
+<Disease>0</Disease>
+  <imgName>Vancouver</imgName>
+</International_Cities>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<International_Cities>
+  <city>Zurich</city>
+  <country>Switzerland</country>
+  <facts>There&apos;s less snow on the slopes, and Zurich is a little warmer--but the city&apos;s elevation means that a little warmer isn&apos;t a bad thing.  Wealthy southern Europeans are moving to Zurich.</facts>
+  <spin>It&apos;s safe, it&apos;s comfortable, it&apos;s Swiss!</spin>
+  <image></image>
+  <climate>1.6</climate>
+  <toxicity>1.7</toxicity>
+  <ecoOutlook>1.5</ecoOutlook>
+  <neighbors>2</neighbors>
+  <longOutlook>1.7</longOutlook>
+  <viabilityIndex>8.5</viabilityIndex>
+  <weather>0</weather>
+  <hurricane>0</hurricane>
+  <tornado>0</tornado>
+  <Flood>0</Flood>
+  <Drought>0</Drought>
+  <Wildfire>0</Wildfire>
+  <Volcano>0</Volcano>
+  <Earthquake>0</Earthquake>
+  <Heat>0</Heat>
+  <War>0</War>
+  <Disease>0</Disease>
+  <imgName>Zurich</imgName>
+</International_Cities>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</dataroot>
