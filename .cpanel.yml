@@ -4,30 +4,56 @@ deployment:
     - export REPO_ROOT=$HOME/repositories/HourOfArrival
     - export DEPLOY_BASE=$HOME/sites/yz
 
-    # Deploy each site folder to the correct location
+    # Clean and deploy each site folder
+    - find "$DEPLOY_BASE/anotherversionofthetruth.xyz" -mindepth 1 -not -name '.*' -exec rm -rf {} +
     - /bin/cp -r $REPO_ROOT/websites/anotherversionofthetruth.xyz/* $DEPLOY_BASE/anotherversionofthetruth.xyz/
+    - find "$DEPLOY_BASE/artisresistance.xyz" -mindepth 1 -not -name '.*' -exec rm -rf {} +
     - /bin/cp -r $REPO_ROOT/websites/artisresistance.xyz/* $DEPLOY_BASE/artisresistance.xyz/
+    - find "$DEPLOY_BASE/bethehammer.xyz" -mindepth 1 -not -name '.*' -exec rm -rf {} +
     - /bin/cp -r $REPO_ROOT/websites/bethehammer.xyz/* $DEPLOY_BASE/bethehammer.xyz/
+    - find "$DEPLOY_BASE/cedocore.xyz" -mindepth 1 -not -name '.*' -exec rm -rf {} +
     - /bin/cp -r $REPO_ROOT/websites/cedocore.xyz/* $DEPLOY_BASE/cedocore.xyz/
+    - find "$DEPLOY_BASE/churchofplano.xyz" -mindepth 1 -not -name '.*' -exec rm -rf {} +
     - /bin/cp -r $REPO_ROOT/websites/churchofplano.xyz/* $DEPLOY_BASE/churchofplano.xyz/
+    - find "$DEPLOY_BASE/freerebelart.xyz" -mindepth 1 -not -name '.*' -exec rm -rf {} +
     - /bin/cp -r $REPO_ROOT/websites/freerebelart.xyz/* $DEPLOY_BASE/freerebelart.xyz/
+    - find "$DEPLOY_BASE/hourofarrival.xyz" -mindepth 1 -not -name '.*' -exec rm -rf {} +
     - /bin/cp -r $REPO_ROOT/websites/hourofarrival.xyz/* $DEPLOY_BASE/hourofarrival.xyz/
+    - find "$DEPLOY_BASE/iamtryingtobelieve.xyz" -mindepth 1 -not -name '.*' -exec rm -rf {} +
     - /bin/cp -r $REPO_ROOT/websites/iamtryingtobelieve.xyz/* $DEPLOY_BASE/iamtryingtobelieve.xyz/
+    - find "$DEPLOY_BASE/opensourceresistance.xyz" -mindepth 1 -not -name '.*' -exec rm -rf {} +
     - /bin/cp -r $REPO_ROOT/websites/opensourceresistance.xyz/* $DEPLOY_BASE/opensourceresistance.xyz/
+    - find "$DEPLOY_BASE/securebroadcastinformatics.xyz" -mindepth 1 -not -name '.*' -exec rm -rf {} +
     - /bin/cp -r $REPO_ROOT/websites/securebroadcastinformatics.xyz/* $DEPLOY_BASE/securebroadcastinformatics.xyz/
+    - find "$DEPLOY_BASE/solutionsbackwardsinitiative.xyz" -mindepth 1 -not -name '.*' -exec rm -rf {} +
     - /bin/cp -r $REPO_ROOT/websites/solutionsbackwardsinitiative.xyz/* $DEPLOY_BASE/solutionsbackwardsinitiative.xyz/
+    - find "$DEPLOY_BASE/themailstrom.xyz" -mindepth 1 -not -name '.*' -exec rm -rf {} +
     - /bin/cp -r $REPO_ROOT/websites/themailstrom.xyz/* $DEPLOY_BASE/themailstrom.xyz/
+    - find "$DEPLOY_BASE/exterminal.xyz" -mindepth 1 -not -name '.*' -exec rm -rf {} +
     - /bin/cp -r $REPO_ROOT/websites/exterminal.xyz/* $DEPLOY_BASE/exterminal.xyz/
+    - find "$DEPLOY_BASE/viabilityindex.xyz" -mindepth 1 -not -name '.*' -exec rm -rf {} +
     - /bin/cp -r $REPO_ROOT/websites/viabilityindex.xyz/* $DEPLOY_BASE/viabilityindex.xyz/
+    - find "$DEPLOY_BASE/briantsunoda.xyz" -mindepth 1 -not -name '.*' -exec rm -rf {} +
     - /bin/cp -r $REPO_ROOT/websites/briantsunoda.xyz/* $DEPLOY_BASE/briantsunoda.xyz/
+    - find "$DEPLOY_BASE/redhorsevector.xyz" -mindepth 1 -not -name '.*' -exec rm -rf {} +
     - /bin/cp -r $REPO_ROOT/websites/redhorsevector.xyz/* $DEPLOY_BASE/redhorsevector.xyz/
+    - find "$DEPLOY_BASE/gracetheteacher.xyz" -mindepth 1 -not -name '.*' -exec rm -rf {} +
     - /bin/cp -r $REPO_ROOT/websites/gracetheteacher.xyz/* $DEPLOY_BASE/gracetheteacher.xyz/
+    - find "$DEPLOY_BASE/hollywoodinmemoriam.xyz" -mindepth 1 -not -name '.*' -exec rm -rf {} +
     - /bin/cp -r $REPO_ROOT/websites/hollywoodinmemoriam.xyz/* $DEPLOY_BASE/hollywoodinmemoriam.xyz/
+    - find "$DEPLOY_BASE/onecountryatatime.xyz" -mindepth 1 -not -name '.*' -exec rm -rf {} +
     - /bin/cp -r $REPO_ROOT/websites/onecountryatatime.xyz/* $DEPLOY_BASE/onecountryatatime.xyz/
+    - find "$DEPLOY_BASE/operationswamp0000.xyz" -mindepth 1 -not -name '.*' -exec rm -rf {} +
     - /bin/cp -r $REPO_ROOT/websites/operationswamp0000.xyz/* $DEPLOY_BASE/operationswamp0000.xyz/
+    - find "$DEPLOY_BASE/operationchipsweep.xyz" -mindepth 1 -not -name '.*' -exec rm -rf {} +
     - /bin/cp -r $REPO_ROOT/websites/operationchipsweep.xyz/* $DEPLOY_BASE/operationchipsweep.xyz/
+    - find "$DEPLOY_BASE/consolidatedmailsystems.xyz" -mindepth 1 -not -name '.*' -exec rm -rf {} +
     - /bin/cp -r $REPO_ROOT/websites/consolidatedmailsystems.xyz/* $DEPLOY_BASE/consolidatedmailsystems.xyz/
+    - find "$DEPLOY_BASE/thepriceoftreason.xyz" -mindepth 1 -not -name '.*' -exec rm -rf {} +
     - /bin/cp -r $REPO_ROOT/websites/thepriceoftreason.xyz/* $DEPLOY_BASE/thepriceoftreason.xyz/
+    - find "$DEPLOY_BASE/thewaterturnedtoblood.xyz" -mindepth 1 -not -name '.*' -exec rm -rf {} +
     - /bin/cp -r $REPO_ROOT/websites/thewaterturnedtoblood.xyz/* $DEPLOY_BASE/thewaterturnedtoblood.xyz/
+    - find "$DEPLOY_BASE/uswiretap.xyz" -mindepth 1 -not -name '.*' -exec rm -rf {} +
     - /bin/cp -r $REPO_ROOT/websites/uswiretap.xyz/* $DEPLOY_BASE/uswiretap.xyz/
+    - find "$DEPLOY_BASE/judsonogram.xyz" -mindepth 1 -not -name '.*' -exec rm -rf {} +
     - /bin/cp -r $REPO_ROOT/websites/judsonogram.xyz/* $DEPLOY_BASE/judsonogram.xyz/
