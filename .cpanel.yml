@@ -30,3 +30,4 @@ deployment:
     - /bin/cp -r $REPO_ROOT/websites/thepriceoftreason.xyz/* $DEPLOY_BASE/thepriceoftreason.xyz/
     - /bin/cp -r $REPO_ROOT/websites/thewaterturnedtoblood.xyz/* $DEPLOY_BASE/thewaterturnedtoblood.xyz/
     - /bin/cp -r $REPO_ROOT/websites/uswiretap.xyz/* $DEPLOY_BASE/uswiretap.xyz/
+    - /bin/cp -r $REPO_ROOT/websites/judsonogram.xyz/* $DEPLOY_BASE/judsonogram.xyz/
