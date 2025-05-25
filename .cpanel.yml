@@ -24,3 +24,7 @@ deployment:
     - /bin/cp -r $REPO_ROOT/websites/gracetheteacher.xyz/* $DEPLOY_BASE/gracetheteacher.xyz/
     - /bin/cp -r $REPO_ROOT/websites/hollywoodinmemoriam.xyz/* $DEPLOY_BASE/hollywoodinmemoriam.xyz/
     - /bin/cp -r $REPO_ROOT/websites/onecountryatatime.xyz/* $DEPLOY_BASE/onecountryatatime.xyz/
+    - /bin/cp -r $REPO_ROOT/websites/operationswamp0000.xyz/* $DEPLOY_BASE/operationswamp0000.xyz/
+    - /bin/cp -r $REPO_ROOT/websites/operationchipsweep.xyz/* $DEPLOY_BASE/operationchipsweep.xyz/
+    - /bin/cp -r $REPO_ROOT/websites/consolidatedmailsystems.xyz/* $DEPLOY_BASE/consolidatedmailsystems.xyz/
+    - /bin/cp -r $REPO_ROOT/websites/thepriceoftreason.xyz/* $DEPLOY_BASE/thepriceoftreason.xyz/
