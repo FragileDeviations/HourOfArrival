@@ -1,0 +1,128 @@
+﻿body 
+{
+    background-color:Black;
+    font-family:Georgia;
+    font-size:12px;
+    color:White;
+    margin-left:0px;
+    margin-top:0px;
+    margin-bottom:0px;
+    margin-right:0px;
+    
+}
+
+
+td
+{
+    text-align:left;
+    vertical-align:top;
+    padding:0px;
+}
+
+
+img
+{
+    border:0px;
+    border-bottom:0px;
+    border-top:0px;
+    border-right:0px;
+    border-left:0px;
+}
+
+
+
+
+
+
+
+.leftUp
+{
+    left: 3px; 
+    top: 1px; 
+    position: relative;
+}
+
+.left
+{
+    left: 2px; 
+    position: relative;
+}
+
+
+.imgOne   /* for images */
+{
+    width:30%;
+    height:10%; 
+}
+
+.one
+{
+    letter-spacing:-1px;
+    text-transform:uppercase;
+}
+
+.two   
+{
+    letter-spacing:-3px;
+    unicode-bidi:bidi-override;        
+    direction:rtl;
+}
+
+.three
+{
+    font-style:normal;
+    text-transform:lowercase;
+    font-weight:bold;
+    word-spacing:-5px;
+}
+
+.four
+{
+    font-family:System;
+    text-decoration:line-through;
+    unicode-bidi:bidi-override;    
+    direction:rtl;
+    letter-spacing:-10px;    
+    font-size:48px;
+    color:Olive;
+}
+
+.leftBold
+{
+    left: 2px; 
+    position: relative; 
+    font-weight:bold;
+} 
+
+.smaller
+{
+    font-size:10px;
+    position:relative;
+    bottom:3px;
+}
+
+.bigger
+{
+    font-size:15px;
+    position:relative;
+    bottom:4px;
+}
+
+.biggerBold
+{
+    font-size:13px;
+    font-weight:bold;    
+}
+
+.lighter
+{
+    color:White;
+    font-weight:lighter;
+}
+
+.sysFont
+{
+    font-family:System;
+}
+
+
