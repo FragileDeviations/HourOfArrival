@@ -19,3 +19,5 @@ deployment:
     - /bin/cp -r $REPO_ROOT/websites/themailstrom.xyz/* $DEPLOY_BASE/themailstrom.xyz/
     - /bin/cp -r $REPO_ROOT/websites/exterminal.xyz/* $DEPLOY_BASE/exterminal.xyz/
     - /bin/cp -r $REPO_ROOT/websites/viabilityindex.xyz/* $DEPLOY_BASE/viabilityindex.xyz/
+    - /bin/cp -r $REPO_ROOT/websites/briantsunoda.xyz/* $DEPLOY_BASE/briantsunoda.xyz/
+    - /bin/cp -r $REPO_ROOT/websites/redhorsevector.xyz/* $DEPLOY_BASE/redhorsevector.xyz/

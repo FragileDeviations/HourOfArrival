@@ -1,0 +1,33 @@
+﻿body 
+{
+    background-color:White;
+}
+
+p
+{
+    font-family:Arial;
+    font-size:12px;
+    color:Black;
+}
+
+div
+{
+    font-family:Arial;
+    font-size:12px;
+    color:Black;
+}    
+
+a:link, a:visited
+{
+    color:Blue;
+}
+
+a:hover, a:active
+{
+    color:Blue;
+}
+
+.page
+{
+    padding-left:7px;
+}

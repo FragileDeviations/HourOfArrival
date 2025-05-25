@@ -1,0 +1,38 @@
+﻿body 
+{
+    background-color:#ffffff;
+}
+
+p
+{
+    font-family:Arial;
+    font-size:12px;
+    color:Black;
+}
+
+div
+{
+    font-family:Arial;
+    font-size:12px;
+    color:Black;
+}
+
+a:link, a:visited
+{
+    color:Blue;
+}
+
+a:hover, a:active
+{
+    color:Blue;
+}
+
+.indent
+{
+    padding-left:40px;
+}
+
+.indent2
+{
+    padding-left:47px;
+}
