@@ -28,3 +28,5 @@ deployment:
     - /bin/cp -r $REPO_ROOT/websites/operationchipsweep.xyz/* $DEPLOY_BASE/operationchipsweep.xyz/
     - /bin/cp -r $REPO_ROOT/websites/consolidatedmailsystems.xyz/* $DEPLOY_BASE/consolidatedmailsystems.xyz/
     - /bin/cp -r $REPO_ROOT/websites/thepriceoftreason.xyz/* $DEPLOY_BASE/thepriceoftreason.xyz/
+    - /bin/cp -r $REPO_ROOT/websites/thewaterturnedtoblood.xyz/* $DEPLOY_BASE/thewaterturnedtoblood.xyz/
+    - /bin/cp -r $REPO_ROOT/websites/uswiretap.xyz/* $DEPLOY_BASE/uswiretap.xyz/

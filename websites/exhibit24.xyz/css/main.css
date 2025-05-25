@@ -1,0 +1,96 @@
+﻿body 
+{
+    background-color:White;
+}
+
+p
+{
+    font-family:Helvetica;
+    font-size:12px;
+    color:Black;
+}
+
+div
+{
+    font-family:Helvetica;
+    font-size:12px;
+    color:Black;
+}    
+
+a:link, a:visited
+{
+    color:Black;
+}
+
+a:hover, a:active
+{
+    color:Black;
+}
+
+.page
+{
+    padding-left:7px;
+}
+
+
+.forumid
+{
+    width:200px;
+	vertical-align:middle;
+}
+
+.halonum
+{
+	padding:2px;
+	background-color:black;
+	color:White;
+    width:85px;
+    text-align:center;
+}
+
+.postnum
+{
+	visibility:hidden;
+    font-weight:bold;
+}
+
+
+.nextcol
+{
+    padding-left:100px;
+}
+
+
+.sixty
+{
+    padding-left:60px;
+}
+
+.fifty
+{
+    padding-left:50px;
+}
+
+
+.halobox
+{
+    width:60px; height:16px; background-color:Black; color:White; padding-bottom:2px; padding-top:2px; padding-left:5px; font-weight:bold; font-size:15px;
+}
+
+.attached
+{
+    border-style:solid;
+    border-width:thin;
+    border-color:Black;
+    width:685px;
+    height:185px;
+}
+
+
+.divbox
+{
+    border-style:solid;
+    border-width:thin;
+    border-color:Black;
+    height:185px;    
+}
