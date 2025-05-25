@@ -31,7 +31,7 @@
 </head>
 
 <body>
-    <audio id="bg-audio" src="avott/avott.mp3" loop="true" muted="true"></audio>
+    <audio id="bg-audio" src="avott/avott.mp3" loop="loop" muted="muted"></audio>
     
     <script>
         const audio = document.getElementById('bg-audio');
@@ -43,16 +43,11 @@
         }, { once: true });
         
         document.addEventListener('visibilitychange', () => {
-        if (document.hidden) {
-                audio.muted = true;
-        }
-        else {
-            audio.muted = false;
-        }
+        audio.muted = document.hidden;
         });
     </script>
   
-    <center>
+    <div style="text-align: center;">
         <div>
             <script type="text/javascript">
                 var swfUrl = 'avott';
@@ -76,7 +71,7 @@
 
             <p style="position:absolute; top:600px; left:300px; color:Black;">24.10.8</p>
         </div>
-    </center>
+    </div>
 </body>
 
 </html>

@@ -3,7 +3,7 @@
 # Hour Of Arrival
 A Year Zero revival project.
 
-![86% Complete](https://progress-bar.xyz/86/?title=26/30+Restored)
+![90% Complete](https://progress-bar.xyz/90/?title=27/30+Restored)
 
 # Notice
 This repository is part of a non-commercial archival and preservation for the original Year Zero ARG.
