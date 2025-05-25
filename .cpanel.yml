@@ -21,3 +21,6 @@ deployment:
     - /bin/cp -r $REPO_ROOT/websites/viabilityindex.xyz/* $DEPLOY_BASE/viabilityindex.xyz/
     - /bin/cp -r $REPO_ROOT/websites/briantsunoda.xyz/* $DEPLOY_BASE/briantsunoda.xyz/
     - /bin/cp -r $REPO_ROOT/websites/redhorsevector.xyz/* $DEPLOY_BASE/redhorsevector.xyz/
+    - /bin/cp -r $REPO_ROOT/websites/gracetheteacher.xyz/* $DEPLOY_BASE/gracetheteacher.xyz/
+    - /bin/cp -r $REPO_ROOT/websites/hollywoodinmemoriam.xyz/* $DEPLOY_BASE/hollywoodinmemoriam.xyz/
+    - /bin/cp -r $REPO_ROOT/websites/onecountryatatime.xyz/* $DEPLOY_BASE/onecountryatatime.xyz/
