@@ -1,23 +1,48 @@
-body {
-  background-image: url(../assets/side.jpg);
-  background-repeat: repeat;
-  font-family: Verdana, Geneva, sans-serif;
-  color: #ffffff;
-  text-align: center;
-  margin: 0;
-  padding: 0 1em;
+﻿body 
+{
+    background-color:White;
 }
 
-h1 img {
-  width: 250px;
-  height: 158px;
+.groupText
+{
+    font-family:Arial;
+    font-size:11px;
+    color:#cccccc;
 }
 
-a {
-  color: #ffffff;
-  text-decoration: none;
+.inner
+{
+    background-image:url(images/wiki_bkgd_03.jpg);
 }
 
-a:hover {
-  text-decoration: underline;
+.innerText
+{
+    padding-left:34px; 
+    padding-top:3px; 
+    font-family:Arial; 
+    font-size:12px;
+}
+
+.hold
+{
+    position:absolute; 
+    top:0px; 
+    left:0px;
+}    
+
+p
+{
+    font-family:Verdana;
+    font-size:12px;
+    color:White;
+}
+
+a:link, a:visited
+{
+    color:#cccccc;
+}
+
+a:hover, a:active
+{
+    color:#ffffff;
 }
