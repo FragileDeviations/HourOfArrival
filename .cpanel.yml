@@ -59,3 +59,9 @@ deployment:
     - /bin/cp -r $REPO_ROOT/websites/judsonogram.xyz/* $DEPLOY_BASE/judsonogram.xyz/
     - find "$DEPLOY_BASE/miningforlife.xyz" -mindepth 1 -not -name '.*' -exec rm -rf {} +
     - /bin/cp -r $REPO_ROOT/websites/miningforlife.xyz/* $DEPLOY_BASE/miningforlife.xyz/
+    - find "$DEPLOY_BASE/exhibit24.xyz" -mindepth 1 -not -name '.*' -exec rm -rf {} +
+    - /bin/cp -r $REPO_ROOT/websites/exhibit24.xyz/* $DEPLOY_BASE/exhibit24.xyz/
+    - find "$DEPLOY_BASE/actpatriotic.xyz" -mindepth 1 -not -name '.*' -exec rm -rf {} +
+    - /bin/cp -r $REPO_ROOT/websites/actpatriotic.xyz/* $DEPLOY_BASE/actpatriotic.xyz/
+    - find "$DEPLOY_BASE/105thairbornecrusaders.xyz" -mindepth 1 -not -name '.*' -exec rm -rf {} +
+    - /bin/cp -r $REPO_ROOT/websites/105thairbornecrusaders.xyz/* $DEPLOY_BASE/105thairbornecrusaders.xyz/
