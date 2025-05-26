@@ -7,7 +7,7 @@ function getContent(threadId){
             document.getElementById("threadText").src = 'sympathetic.htm';
             document.getElementById("thread1").innerHTML = '<a href="javascript:swapContent(\'sympathetic.htm\');addHeader(\'sympathetic\');">About</a>';
             document.getElementById("thread2").innerHTML = '<a href="javascript:swapContent(\'workarounds.htm\');addHeader(\'workarounds\');">Support</a>';
-            document.getElementById("thread3").innerHTML = '';
+            document.getElementById("thread3").innerHTML = '<a href="javascript:swapContent(\'tangent.htm\');addHeader(\'tangent\');">Socials</a>';
             document.getElementById("thread4").innerHTML = '';
             document.getElementById("thread5").innerHTML = '';
             document.getElementById("thread6").innerHTML = '';
@@ -105,7 +105,7 @@ function addHeader(headerId){
             break;     
             
         case 'tangent':
-            document.getElementById("heading").innerHTML = '<span style="font-size:11px; font-family:Arial; color:#cccccc; font-style:italic;">Ongoing:   </span><span style="font-family:Arial; font-size:14px; font-weight:bold;">SR Tangent - Depth</span>';
+            document.getElementById("heading").innerHTML = '<span style="font-size:11px; font-family:Arial; color:#cccccc; font-style:italic;">Ongoing:   </span><span style="font-family:Arial; font-size:14px; font-weight:bold;">Socials</span>';
             break;  
             
         case 'usage':
