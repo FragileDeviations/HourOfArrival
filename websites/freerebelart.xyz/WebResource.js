@@ -113,7 +113,7 @@ function WebForm_DoCallback(eventTarget, eventArgument, eventCallback, context, 
             window.clearInterval(interval);
             xmlRequestFrame.document.write("");
             xmlRequestFrame.document.close();
-            xmlRequestFrame.document.write('<html><body><form method="post"><input type="hidden" name="__CALLBACKLOADSCRIPT" value="t"></form></body></html>');
+            xmlRequestFrame.document.write('<html lang="en-US" ><body><form method="post"><input type="hidden" name="__CALLBACKLOADSCRIPT" value="t"></form></body></html>');
             xmlRequestFrame.document.close();
             xmlRequestFrame.document.forms[0].action = theForm.action;
             var count = __theFormPostCollection.length;

@@ -9,12 +9,13 @@ assignees: FragileDeviations
 ---
 
 ## Effected Website(s)
+
 * [ex: bethehammer.xyz]
 * [ex: anotherversionofthetruth.xyz]
 
 ## Issue (Give Images/Video If Possible)
 
-
 ## Specifications
+
 Browser: [ex: Firefox]
 Operating System: [ex: Windows 11]
