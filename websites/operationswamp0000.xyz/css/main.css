@@ -1,38 +1,31 @@
-﻿body 
-{
-    background-color:#ffffff;
+body {
+    background-color: #ffffff;
 }
 
-p
-{
-    font-family:Verdana;
-    font-size:12px;
-    color:White;
+p {
+    font-family: Verdana;
+    font-size: 12px;
+    color: White;
 }
 
-div
-{
-    font-family:Verdana;
-    font-size:12px;
-    color:White;
+div {
+    font-family: Verdana;
+    font-size: 12px;
+    color: White;
 }
 
-a:link, a:visited
-{
-    color:Blue;
+a:link, a:visited {
+    color: Blue;
 }
 
-a:hover, a:active
-{
-    color:Blue;
+a:hover, a:active {
+    color: Blue;
 }
 
-.indent
-{
-    padding-left:40px;
+.indent {
+    padding-left: 40px;
 }
 
-.indent2
-{
-    padding-left:47px;
+.indent2 {
+    padding-left: 47px;
 }

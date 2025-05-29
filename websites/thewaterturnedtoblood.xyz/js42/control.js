@@ -1,6 +1,6 @@
 // JScript File
 
-function doorway(){
+function doorway() {
     document.getElementById("doorway").style.visibility = "visible";
 }
 

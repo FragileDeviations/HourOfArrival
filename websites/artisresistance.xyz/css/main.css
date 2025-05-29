@@ -1,23 +1,18 @@
-﻿body 
-{
-    background-color:Black;
+body {
+    background-color: Black;
 }
 
-p
-{
-    color:White;
-    font-family:Arial;
-    font-size:11px;
+p {
+    color: White;
+    font-family: Arial;
+    font-size: 11px;
 }
 
 
-    
-a:link, a:visited
-{
-    color:White;
+a:link, a:visited {
+    color: White;
 }
 
-a:hover, a:active
-{
-    color:White;
+a:hover, a:active {
+    color: White;
 }

@@ -1,38 +1,32 @@
-﻿body 
-{
-    background-color:White;
+body {
+    background-color: White;
 }
 
-p
-{
-    font-family:Verdana;
-    font-size:11px;
-    color:Black;
+p {
+    font-family: Verdana;
+    font-size: 11px;
+    color: Black;
 }
 
 
-div
-{
-    font-family:Verdana;
-    font-size:11px;
-    color:White;
+div {
+    font-family: Verdana;
+    font-size: 11px;
+    color: White;
 }
 
-.memText
-{
-    font-family:Arial;
-    font-size:11px;
-    color:#cccccc;
+.memText {
+    font-family: Arial;
+    font-size: 11px;
+    color: #cccccc;
 }
 
-a:link, a:visited
-{
-    font-size:12px;    
-    color:White;
+a:link, a:visited {
+    font-size: 12px;
+    color: White;
 }
 
-a:hover, a:active
-{
-    font-size:12px;
-    color:White;
+a:hover, a:active {
+    font-size: 12px;
+    color: White;
 }

@@ -1,65 +1,55 @@
-body 
-{
-    background-color:#0003ab;
+body {
+    background-color: #0003ab;
 }
 
-p
-{
-    font-family:Verdana;
-    font-size:12px;
-    color:Black;
+p {
+    font-family: Verdana;
+    font-size: 12px;
+    color: Black;
 }
 
-a:link, a:visited
-{
-    color:White;
+a:link, a:visited {
+    color: White;
 }
 
-a:hover, a:active
-{
-    color:White;
+a:hover, a:active {
+    color: White;
 }
 
-.tinylittle
-{
-    font-family:Helvetica;
-    font-size:11px;
-    color:White;
+.tinylittle {
+    font-family: Helvetica;
+    font-size: 11px;
+    color: White;
 }
 
 
-.tinybigger
-{
-    font-family:Helvetica;
-    font-size:12px;
-    color:White;
+.tinybigger {
+    font-family: Helvetica;
+    font-size: 12px;
+    color: White;
 }
 
 
-.indent1
-{
-    padding-left:20px;
+.indent1 {
+    padding-left: 20px;
 }
 
-.indent2
-{
-    padding-left:29px;
+.indent2 {
+    padding-left: 29px;
 }
 
-.indent3
-{
-    padding-left:200px;
+.indent3 {
+    padding-left: 200px;
 }
 
-.indent4
-{
-    padding-left:20px;
+.indent4 {
+    padding-left: 20px;
 }
 
-.indent5
-{
-    padding-left:130px;
+.indent5 {
+    padding-left: 130px;
 }
+
 /*
      FILE ARCHIVED ON 06:54:15 Jun 13, 2007 AND RETRIEVED FROM THE
      INTERNET ARCHIVE ON 01:31:42 May 17, 2025.

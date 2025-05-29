@@ -1,8 +1,7 @@
-﻿// JScript File
+// JScript File
 
-function getContent(threadId){
-    switch(threadId)
-    {
+function getContent(threadId) {
+    switch (threadId) {
         case 0:
             document.getElementById("threadText").src = 'about.htm';
             document.getElementById("thread1").innerHTML = '<a href="javascript:swapContent(\'about.htm\');addHeader(\'about\');">About</a>';
@@ -13,7 +12,7 @@ function getContent(threadId){
             document.getElementById("thread6").innerHTML = '';
             document.getElementById("heading").innerHTML = '<span style="font-size:11px; font-family:Arial; color:#cccccc; font-style:italic;">Ongoing:   </span><span style="font-family:Arial; font-size:14px; font-weight:bold;">About</span>';
             break;
-        
+
         case 1:
             document.getElementById("threadText").src = 'sites_01.htm';
             document.getElementById("thread1").innerHTML = '<a href="javascript:swapContent(\'sites_01.htm\');">01</a>';
@@ -23,7 +22,7 @@ function getContent(threadId){
             document.getElementById("thread5").innerHTML = '';
             document.getElementById("thread6").innerHTML = '';
             document.getElementById("heading").innerHTML = '';
-            break;    
+            break;
 
         case 2:
             document.getElementById("threadText").src = 'malletrings.htm';
@@ -32,10 +31,10 @@ function getContent(threadId){
             document.getElementById("thread3").innerHTML = '';
             document.getElementById("thread4").innerHTML = '';
             document.getElementById("thread5").innerHTML = '';
-            document.getElementById("thread6").innerHTML = '';            
+            document.getElementById("thread6").innerHTML = '';
             document.getElementById("heading").innerHTML = '<span style="font-family:Arial; font-size:14px; font-weight:bold;">Mallet Rings | </span><span style="font-size:11px; font-family:Arial; color:#cccccc; ">Updated:  Thurs 2/10</span>';
-            break;                     
-                    
+            break;
+
         case 3:
             document.getElementById("threadText").src = 'subsystem.htm';
             document.getElementById("thread1").innerHTML = '';
@@ -43,10 +42,10 @@ function getContent(threadId){
             document.getElementById("thread3").innerHTML = '';
             document.getElementById("thread4").innerHTML = '';
             document.getElementById("thread5").innerHTML = '';
-            document.getElementById("thread6").innerHTML = '';            
+            document.getElementById("thread6").innerHTML = '';
             document.getElementById("heading").innerHTML = '<span style="font-family:Arial; font-size:14px; font-weight:bold;">EPR Subsystem | </span><span style="font-size:11px; font-family:Arial; color:#cccccc; ">Updated:  Thurs 2/10</span>';
-            break;  
-            
+            break;
+
         case 4:
             document.getElementById("threadText").src = 'power.htm';
             document.getElementById("thread1").innerHTML = '';
@@ -54,10 +53,10 @@ function getContent(threadId){
             document.getElementById("thread3").innerHTML = '';
             document.getElementById("thread4").innerHTML = '';
             document.getElementById("thread5").innerHTML = '';
-            document.getElementById("thread6").innerHTML = '';            
+            document.getElementById("thread6").innerHTML = '';
             document.getElementById("heading").innerHTML = '<span style="font-family:Arial; font-size:14px; font-weight:bold;">Power | </span><span style="font-size:11px; font-family:Arial; color:#cccccc; ">Updated:  Thurs 2/10</span>';
-            break;      
-            
+            break;
+
         case 5:
             document.getElementById("threadText").src = 'comm.htm';
             document.getElementById("thread1").innerHTML = '';
@@ -65,35 +64,34 @@ function getContent(threadId){
             document.getElementById("thread3").innerHTML = '';
             document.getElementById("thread4").innerHTML = '';
             document.getElementById("thread5").innerHTML = '';
-            document.getElementById("thread6").innerHTML = '';            
+            document.getElementById("thread6").innerHTML = '';
             document.getElementById("heading").innerHTML = '<span style="font-family:Arial; font-size:14px; font-weight:bold;">Comm | </span><span style="font-size:11px; font-family:Arial; color:#cccccc; ">Updated:  Thurs 2/10</span>';
-            break;                  
-   } 
+            break;
+    }
 }
 
-function addHeader(headerId){
-    switch(headerId)
-   {
+function addHeader(headerId) {
+    switch (headerId) {
         case 'about':
             document.getElementById("heading").innerHTML = '<span style="font-size:11px; font-family:Arial; color:#cccccc; font-style:italic;">Ongoing:   </span><span style="font-family:Arial; font-size:14px; font-weight:bold;">About</span>';
             break;
 
         case 'support':
             document.getElementById("heading").innerHTML = '<span style="font-size:11px; font-family:Arial; color:#cccccc; font-style:italic;">Ongoing:   </span><span style="font-family:Arial; font-size:14px; font-weight:bold;">Support</span>';
-            break;     
-            
+            break;
+
         case 'socials':
             document.getElementById("heading").innerHTML = '<span style="font-size:11px; font-family:Arial; color:#cccccc; font-style:italic;">Ongoing:   </span><span style="font-family:Arial; font-size:14px; font-weight:bold;">Socials</span>';
-            break;  
-   }
-} 
+            break;
+    }
+}
 
-function swapContent(who){
+function swapContent(who) {
     document.getElementById('threadText').src = who;
-    document.getElementById('heading').innerHTML = ""; 
+    document.getElementById('heading').innerHTML = "";
 }
 
 
-function swapImage(path){
+function swapImage(path) {
     document.getElementById('sharedImages').innerHTML = '<img alt="" src="images/' + path + '.jpg">';
 } 
