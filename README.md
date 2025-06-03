@@ -16,7 +16,7 @@ This repository does not grant any license to redistribute or reuse this content
 
 This is funded out-of-pocket, I am paying for hosting and the domains.
 
-If you would like to support this, you can donate on PayPal (mabel@weatherelectric.xyz)
+If you would like to support this, you can donate on PayPal (mabel@anotherversionofthetruth.xyz)
 
 This is not for profit, all funds donated go directly to hosting.
 
