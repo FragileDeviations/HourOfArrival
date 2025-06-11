@@ -7,7 +7,7 @@ function getContent(threadId) {
             document.getElementById("thread1").innerHTML = '<a href="javascript:swapContent(\'about.htm\');addHeader(\'about\');">About</a>';
             document.getElementById("thread2").innerHTML = '<a href="javascript:swapContent(\'support.htm\');addHeader(\'support\');">Support</a>';
             document.getElementById("thread3").innerHTML = '<a href="javascript:swapContent(\'socials.htm\');addHeader(\'socials\');">Socials</a>';
-            document.getElementById("thread4").innerHTML = '';
+            document.getElementById("thread4").innerHTML = '<a href="javascript:swapContent(\'bonus.htm\');addHeader(\'bonus\');">Bonus Content</a>';
             document.getElementById("thread5").innerHTML = '';
             document.getElementById("thread6").innerHTML = '';
             document.getElementById("heading").innerHTML = '<span style="font-size:11px; font-family:Arial; color:#cccccc; font-style:italic;">Ongoing:   </span><span style="font-family:Arial; font-size:14px; font-weight:bold;">About</span>';
@@ -82,6 +82,9 @@ function addHeader(headerId) {
 
         case 'socials':
             document.getElementById("heading").innerHTML = '<span style="font-size:11px; font-family:Arial; color:#cccccc; font-style:italic;">Ongoing:   </span><span style="font-family:Arial; font-size:14px; font-weight:bold;">Socials</span>';
+            break;
+        case 'bonus':
+            document.getElementById("heading").innerHTML = '<span style="font-size:11px; font-family:Arial; color:#cccccc; font-style:italic;">Ongoing:   </span><span style="font-family:Arial; font-size:14px; font-weight:bold;">Bonus Content</span>';
             break;
     }
 }
