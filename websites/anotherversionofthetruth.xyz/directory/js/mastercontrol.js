@@ -71,7 +71,7 @@ function getContent(threadId) {
         case 6:
             document.getElementById("threadText").src = 'ringtones.htm';
             document.getElementById("thread1").innerHTML = '<a href="javascript:swapContent(\'ringtones.htm\');addHeader(\'ringtones\');">Ringtones</a>';
-            document.getElementById("thread2").innerHTML = '';
+            document.getElementById("thread2").innerHTML = '<a href="javascript:swapContent(\'images.htm\');addHeader(\'images\');">Images</a>';
             document.getElementById("thread3").innerHTML = '';
             document.getElementById("thread4").innerHTML = '';
             document.getElementById("thread5").innerHTML = '';
@@ -96,6 +96,9 @@ function addHeader(headerId) {
             break;
         case 'ringtones':
             document.getElementById("heading").innerHTML = '<span style="font-size:11px; font-family:Arial; color:#cccccc; font-style:italic;">Ongoing:   </span><span style="font-family:Arial; font-size:14px; font-weight:bold;">Ringtones</span>';
+            break;
+        case 'images':
+            document.getElementById("heading").innerHTML = '<span style="font-size:11px; font-family:Arial; color:#cccccc; font-style:italic;">Ongoing:   </span><span style="font-family:Arial; font-size:14px; font-weight:bold;">Images</span>';
             break;
     }
 }
