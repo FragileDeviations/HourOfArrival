@@ -41,6 +41,7 @@
         <br/><br/>
         <a href="bonus/ZeroSum.zip" target="_blank" rel="noopener noreferrer">Zero Sum</a> <button class="audioButton" data-mp3="bonus/ZSRingtone.mp3">Play</button>
         <br/><br/>
+        <a href="bonus/GunshotsByComputer.zip" target="_blank" rel="noopener noreferrer">Gunshots By Computer</a> <button class="audioButton" data-mp3="bonus/GBCRingtone.mp3">Play</button>
     </p>
 </div>
 
@@ -79,6 +80,7 @@
         <br/><br/>
         <a href="bonus/ZeroSum.zip" target="_blank" rel="noopener noreferrer">Zero Sum</a> <button class="audioButton" data-mp3="bonus/ZSRingtone.mp3">Play</button>
         <br/><br/>
+        <a href="bonus/GunshotsByComputer.zip" target="_blank" rel="noopener noreferrer">Gunshots By Computer</a> <button class="audioButton" data-mp3="bonus/GBCRingtone.mp3">Play</button>
     </p>
 </div>
 
@@ -93,7 +95,6 @@
             const mp3Src = button.getAttribute('data-mp3');
 
             if (audio.src.endsWith(mp3Src) && !audio.paused) {
-                // Stop if same track is playing
                 audio.pause();
                 audio.currentTime = 0;
                 button.textContent = 'Play';
@@ -101,14 +102,12 @@
                 return;
             }
 
-            // Stop any playing audio & reset old button text
             if (!audio.paused && currentButton) {
                 currentButton.textContent = 'Play';
                 audio.pause();
                 audio.currentTime = 0;
             }
 
-            // Change source and play
             audio.src = mp3Src;
             audio.play();
             button.textContent = 'Stop';
@@ -116,7 +115,6 @@
         });
     });
 
-    // Optional: reset button text when audio ends/stops by other means
     audio.addEventListener('ended', () => {
         if (currentButton) currentButton.textContent = 'Play';
         currentButton = null;
