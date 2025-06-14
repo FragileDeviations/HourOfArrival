@@ -45,58 +45,27 @@
     </p>
 </div>
 
-
-<div class="hold">
-    <p class="innerText2">
-        <a href="bonus/Hyperpower.zip" target="_blank" rel="noopener noreferrer">Hyperpower</a> <button class="audioButton" data-mp3="bonus/HPRingtone.mp3">Play</button>
-        <br/><br/>
-        <a href="bonus/TheBeginningOfTheEnd.zip" target="_blank" rel="noopener noreferrer">The Beginning of the End</a> <button class="audioButton" data-mp3="bonus/TBOTERingtone.mp3">Play</button>
-        <br/><br/>
-        <a href="bonus/Survivalism.zip" target="_blank" rel="noopener noreferrer">Survivalism</a> <button class="audioButton" data-mp3="bonus/SurvivalismRingtone.mp3">Play</button>
-        <br/><br/>
-        <a href="bonus/TheGoodSoldier.zip" target="_blank" rel="noopener noreferrer">The Good Soldier</a> <button class="audioButton" data-mp3="bonus/TGSRingtone.mp3">Play</button>
-        <br/><br/>
-        <a href="bonus/Vessel.zip" target="_blank" rel="noopener noreferrer">Vessel</a> <button class="audioButton" data-mp3="bonus/VesselRingtone.mp3">Play</button>
-        <br/><br/>
-        <a href="bonus/MeImNot.zip" target="_blank" rel="noopener noreferrer">Me, I'm Not</a> <button class="audioButton" data-mp3="bonus/MINRingtone.mp3">Play</button>
-        <br/><br/>
-        <a href="bonus/CapitalG.zip" target="_blank" rel="noopener noreferrer">Capital G</a> <button class="audioButton" data-mp3="bonus/CGRingtone.mp3">Play</button>
-        <br/><br/>
-        <a href="bonus/MyViolentHeart.zip" target="_blank" rel="noopener noreferrer">My Violent Heart</a> <button class="audioButton" data-mp3="bonus/MVHRingtone.mp3">Play</button>
-        <br/><br/>
-        <a href="bonus/TheWarning.zip" target="_blank" rel="noopener noreferrer">The Warning</a> <button class="audioButton" data-mp3="bonus/TWRingtone.mp3">Play</button>
-        <br/><br/>
-        <a href="bonus/GodGiven.zip" target="_blank" rel="noopener noreferrer">God Given</a> <button class="audioButton" data-mp3="bonus/GGRingtone.mp3">Play</button>
-        <br/><br/>
-        <a href="bonus/MeetYourMaster.zip" target="_blank" rel="noopener noreferrer">Meet Your Master</a> <button class="audioButton" data-mp3="bonus/MYMRingtone.mp3">Play</button>
-        <br/><br/>
-        <a href="bonus/TheGreaterGood.zip" target="_blank" rel="noopener noreferrer">The Greater Good</a> <button class="audioButton" data-mp3="bonus/TGGRingtone.mp3">Play</button>
-        <br/><br/>
-        <a href="bonus/TheGreatDestroyer.zip" target="_blank" rel="noopener noreferrer">The Great Destroyer</a> <button class="audioButton" data-mp3="bonus/TGDRingtone.mp3">Play</button>
-        <br/><br/>
-        <a href="bonus/AnotherVersionOfTheTruth.zip" target="_blank" rel="noopener noreferrer">Another Version of the Truth</a> <button class="audioButton" data-mp3="bonus/AVOTTRingtone.mp3">Play</button>
-        <br/><br/>
-        <a href="bonus/InThisTwilight.zip" target="_blank" rel="noopener noreferrer">In This Twilight</a> <button class="audioButton" data-mp3="bonus/ITRRingtone.mp3">Play</button>
-        <br/><br/>
-        <a href="bonus/ZeroSum.zip" target="_blank" rel="noopener noreferrer">Zero Sum</a> <button class="audioButton" data-mp3="bonus/ZSRingtone.mp3">Play</button>
-        <br/><br/>
-        <a href="bonus/GunshotsByComputer.zip" target="_blank" rel="noopener noreferrer">Gunshots By Computer</a> <button class="audioButton" data-mp3="bonus/GBCRingtone.mp3">Play</button>
-    </p>
-</div>
-
 <audio id="loopAudio" loop></audio>
 
 <script>
     const audio = document.getElementById('loopAudio');
+    const prerollSrc = 'bonus/lancer.mp3';
+    const prerollChance = 0.05;
     let currentButton = null;
+    const prerollStorageKey = 'prerollPlayedEver'; // storage key
+    let isInPreroll = false;
+    let activeSprite = null;
+
+    const prerollAlreadyPlayed = localStorage.getItem(prerollStorageKey) === 'true';
 
     document.querySelectorAll('.audioButton').forEach(button => {
         button.addEventListener('click', () => {
-            const mp3Src = button.getAttribute('data-mp3');
+            const mainSrc = button.getAttribute('data-mp3');
 
-            if (audio.src.endsWith(mp3Src) && !audio.paused) {
+            if (audio.src.endsWith(mainSrc) && !audio.paused) {
                 audio.pause();
                 audio.currentTime = 0;
+                audio.loop = false;
                 button.textContent = 'Play';
                 currentButton = null;
                 return;
@@ -108,17 +77,71 @@
                 audio.currentTime = 0;
             }
 
-            audio.src = mp3Src;
-            audio.play();
-            button.textContent = 'Stop';
             currentButton = button;
+            button.textContent = 'Stop';
+
+            if (!prerollAlreadyPlayed && Math.random() < prerollChance) {
+                localStorage.setItem(prerollStorageKey, 'true');
+                isInPreroll = true;
+                showSprite(button);
+
+                audio.src = prerollSrc;
+                audio.loop = false;
+
+                audio.onended = () => {
+                    isInPreroll = false;
+                    removeSprite();
+                    audio.onended = null;
+                    audio.src = mainSrc;
+                    audio.loop = true;
+                    audio.play();
+                };
+
+                audio.play();
+            } else {
+                audio.src = mainSrc;
+                audio.loop = true;
+                audio.play();
+            }
         });
     });
 
     audio.addEventListener('ended', () => {
-        if (currentButton) currentButton.textContent = 'Play';
-        currentButton = null;
+        if (!audio.loop && !isInPreroll && currentButton) {
+            currentButton.textContent = 'Play';
+            currentButton = null;
+        }
     });
+
+    function showSprite(button) {
+        removeSprite();
+
+        if (getComputedStyle(button).position === 'static') {
+            button.style.position = 'relative';
+        }
+
+        const sprite = document.createElement('img');
+        sprite.src = 'bonus/lancer.gif';
+        sprite.alt = 'Lancer';
+        sprite.style.cssText = `
+        position: absolute;
+        top: 50%;
+        right: -150px;
+        transform: translateY(-50%);
+        height: 64px;
+        image-rendering: pixelated;
+        pointer-events: none;
+    `;
+        button.appendChild(sprite);
+        activeSprite = sprite;
+    }
+
+    function removeSprite() {
+        if (activeSprite && activeSprite.parentElement) {
+            activeSprite.remove();
+            activeSprite = null;
+        }
+    }
 </script>
 
 </body>
