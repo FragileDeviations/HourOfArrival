@@ -56,7 +56,7 @@
     let isInPreroll = false;
     let activeSprite = null;
 
-    const prerollAlreadyPlayed = localStorage.getItem(prerollStorageKey) === 'true';
+    let prerollAlreadyPlayed = localStorage.getItem(prerollStorageKey) === 'true';
 
     document.querySelectorAll('.audioButton').forEach(button => {
         button.addEventListener('click', () => {
@@ -82,6 +82,7 @@
 
             if (!prerollAlreadyPlayed && Math.random() < prerollChance) {
                 localStorage.setItem(prerollStorageKey, 'true');
+                prerollAlreadyPlayed = true;  // <-- update the variable here to prevent repeats in same session
                 isInPreroll = true;
                 showSprite(button);
 
